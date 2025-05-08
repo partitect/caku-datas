@@ -1,0 +1,2012 @@
+{
+  "name": "Çankırı Karatekin Üniversitesi Veri Tabanı",
+  "version": "1.0",
+  "lastUpdated": "2025-02-07",
+  "data": [
+    {
+      "category": "Tarihçe",
+      "title": "Tarihçe",
+      "content": "Çankırı Karatekin Üniversitesi’nin kökleri, “Adı kendinden büyük şehir” Çankırı’da 788 Yıl önce (1235-2023) filizlenen Darüşşifa’ya dayanmaktadır. Anadolu Selçuklu Valisi Atabey Cemaleddin Ferruh tarafından Çankırı’da inşa edilen Darüşşifa, şehrin ilk yükseköğretim kurumudur ve günümüz eğitim-araştırma hastanelerinin temelini oluşturmaktadır.Atabey Cemaleddin Ferruh, Darüşşifa’ya ilave olarak 1243 yılında Darülhadisi inşa etmiştir. Hadis alanında öğretim yapan bu yüksek öğretim kurumu, Anadolu’da kurulan ilk Darülhadistir. Bünyesine 1400’lü yıllarda Mevlevihane eklenmiştir. Cumhuriyetin ilk yıllarında yıpranıp yıkılan mekanlar, 2018 yılında aslına uygun restore edilerek modern bir üniversite hayali kuran şehrin ve o şehri fetheden komutanın adını alan üniversiteye, Çankırı Karatekin Üniversitesi’ne tahsis edilmiştir. Cumhuriyet döneminde Çankırı’da ilk yüksek öğretim kurumu olarak Eğitim Enstitüsü 1975 yılında kurulmuş; Meslek Yüksek Okulu ise 1976 yılında kurularak Ankara Üniversitesi’ne bağlanmıştır.Üniversite hayalini gerçekleştirme noktasında oldukça kararlı olan Emir Karatekin’in şehri, 1995 yılında Üniversite Vakfını kurmuş ve mücadelesini teşkilatlandırarak yürütmüştür. 2006 yılında Gazi Üniversitesi çatısı altında İktisadi ve İdari Bilimler Fakültesi ve Güzel Sanatlar Fakültesi kurulmuştur.2007 yılında ise özlenen üniversite müjdesi, dönemin Başbakanı, Cumhurbaşkanımız Recep Tayyip ERDOĞAN tarafından Çankırılılara ilan edilmiştir.2014 yılında büyük bölümü Uluyazı Kampüsüne taşınan Çankırı Karatekin Üniversitesi, aradan geçen sürede büyümüş, gelişmiş, Türkiye’de ve dünyada bilinen, güvenilen, beğenilen ve tercih edilen bir yükseköğretim kurumu olmuştur.Çankırı Karatekin Üniversitesi, 4500 öğrenciyle çıktığı yolculuğuna, bugün itibariyle 21000 öğrenciyle devam etmektedir. Binlerce yabancı uyruklu öğrenciyle uluslararasılaşma yolunda da büyük adımlar atılmıştır. Erasmus Hareketlilikleri, sosyal ve kültürel aktiviteleriyle, milli ve manevi hissiyatlarla hep ön saflarda yerini almıştır."
+    },
+    {
+      "category": "Kurumsal",
+      "title": "Misyon",
+      "content": "İnsanı merkeze alan bir anlayışla; bilgiyi rehber edinen, tarihsel birikime sahip, kadim değerlere bağlı nesiller inşa etme gayesiyle eğitim-öğretim faaliyetleri sunan; bilim, sanat, ekonomi ve sosyal alanlarda ulusal ve uluslararası paydaşların ihtiyaçlarına cevap vermeyi ilke edinen, bilimsel bilgiyi inovasyonla birleştirerek kalkınmaya öncülük eden, ulusal ve evrensel sorunlara duyarlı, daimi tekâmül doğrultusunda yeniliği ve gelişimi amaç edenen bir üniversite olmak."
+    },
+    {
+      "category": "Kurumsal",
+      "title": "Vizyon",
+      "content": "Tarihimizden ve medeniyetimizden alınan ilhamla geleceğe yön veren, yenilikçi ve girişimci bir anlayışla eğitim ve öğretim çalışmalarında yetkin, araştırmalarıyla paydaşlarına değer katan ve faaliyetleriyle daha yaşanılabilir bir Çankırı’nın şekillenmesine katkı sağlayan bir üniversite olmak."
+    },
+    {
+      "category": "Kurumsal",
+      "title": "TEMEL İLKE VE DEĞERLERİMİZ",
+      "content": "Öncü Araştırma Odaklılık, Yerel, Bölgesel, Ülke ve Evrensel Sorunlara Duyarlı,Toplumsal Katkı Yönelimi,Paydaş Gelişimi Odaklı,Yenilikçi ve Yaratıcı Girişimcilik,Etik Değerlere Bağlı,Güvenilir ve Şeffaf olmak,Engelsiz bir üniversite olmak"
+    },
+    {
+      "category": "Üniversite Genel İletişim",
+      "title": "Telefon",
+      "content": "+90(376) 218 95 00 veya +90(376) 213 26 26"
+    },
+    {
+      "category": "Üniversite Genel İletişim",
+      "title": "E-Posta",
+      "content": "basinyayin@karatekin.edu.tr"
+    },
+    {
+      "category": "Üniversite Genel İletişim",
+      "title": "Fax",
+      "content": "+90 376 218 95 09"
+    },
+    {
+      "category": "Üniversite Genel İletişim",
+      "title": "Kep Adresi",
+      "content": "cnu@hs01.kep.tr"
+    },
+    {
+      "category": "Üniversite Genel İletişim",
+      "title": "E-Tebligat (UETS) Adresi",
+      "content": "35525-45256-36285"
+    },
+    {
+      "category": "Üniversite Genel İletişim",
+      "title": "Adres",
+      "content": "Uluyazı Kampüsü Rektörlük Binası Merkez / ÇANKIRI - Posta Kodu: 18100"
+    },
+    {
+      "category": "Üniversite Sosyal Medya",
+      "title": "Facebook",
+      "content": "https://www.facebook.com/karatekinuniversite/"
+    },
+    {
+      "category": "Üniversite Sosyal Medya",
+      "title": "Twitter veya X",
+      "content": "https://twitter.com/karatekinUni"
+    },
+    {
+      "category": "Üniversite Sosyal Medya",
+      "title": "Instagram",
+      "content": "https://www.instagram.com/karatekinuni/"
+    },
+    {
+      "category": "Üniversite Sosyal Medya",
+      "title": "Youtube",
+      "content": "https://www.youtube.com/channel/UCOoZJCNQSrrCo3Jd-JjBTwg"
+    },
+    {
+      "category": "Akademik",
+      "title": "Fakülteler",
+      "items": [
+        {
+          "category": "Fakülte",
+          "title": "Diş Hekimliği Fakültesi",
+          "dean": {
+            "name": "Prof. Dr. Özcan ÖZKAN",
+            "email": "ozcanozkan@karatekin.edu.tr",
+            "dahili": "8151"
+          },
+          "hizmetler": [
+            {
+              "name": "Diş Randevusu",
+              "web": "https://disrandevu.karatekin.edu.tr/login"
+            }
+          ],
+          "yonetim_kurulu": [
+            "Prof. Dr. Özcan ÖZKAN",
+            "Prof. Dr. Bayram Cemil BİLGİLİ",
+            "Prof. Dr. M. Nuri ÖNER",
+            "Doç. Dr. Ayşe ÖZKAN",
+            "Dr. Öğr. Üyesi Remzi Orkun AKGÜN"
+          ],
+          "akademik_personel": [
+            {
+              "department": "Klinik Bilimler - Ağız, Diş ve Çene Cerrahisi",
+              "name": "Halil Anlar",
+              "title": "Doktor Öğretim Üyesi",
+              "dahili": "",
+              "email": "halilanlar@karatekin.edu.tr"
+            },
+            {
+              "department": "Klinik Bilimler - Ağız, Diş ve Çene Cerrahisi",
+              "name": "Emre Diker",
+              "title": "Doktor Öğretim Üyesi",
+              "dahili": "",
+              "email": "emrediker@karatekin.edu.tr"
+            },
+            {
+              "department": "Klinik Bilimler - Ağız, Diş ve Çene Cerrahisi",
+              "name": "Şule Kahraman",
+              "title": "Doktor Öğretim Üyesi",
+              "dahili": "",
+              "email": "sulekahraman@karatekin.edu.tr"
+            },
+            {
+              "department": "Klinik Bilimler - Ağız, Diş ve Çene Cerrahisi",
+              "name": "Muhsin Ardıç",
+              "title": "Doktor Öğretim Üyesi",
+              "dahili": "",
+              "email": "muhsinardic@karatekin.edu.tr"
+            },
+            {
+              "department": "Klinik Bilimler - Ağız, Diş ve Çene Radyolojisi",
+              "name": "Zuhal Ovuz",
+              "title": "Doktor Öğretim Üyesi",
+              "dahili": "",
+              "email": "zuhalovuz@karatekin.edu.tr"
+            },
+            {
+              "department": "Klinik Bilimler - Çocuk Diş Hekimliği",
+              "name": "Sena Ayyıldız",
+              "title": "Doktor Öğretim Üyesi",
+              "dahili": "",
+              "email": "senaayyildiz@karatekin.edu.tr"
+            },
+            {
+              "department": "Klinik Bilimler - Çocuk Diş Hekimliği",
+              "name": "Melike Yalçıntaş Ardıç",
+              "title": "Doktor Öğretim Üyesi",
+              "dahili": "",
+              "email": "melikeyalcintasardic@karatekin.edu.tr"
+            },
+            {
+              "department": "Klinik Bilimler - Endodonti",
+              "name": "Eda Gürsu Şahin",
+              "title": "Doktor Öğretim Üyesi",
+              "dahili": "",
+              "email": "edagursusahin@karatekin.edu.tr"
+            },
+            {
+              "department": "Klinik Bilimler - Endodonti",
+              "name": "Özgür Soysal Özdemir",
+              "title": "Doktor Öğretim Üyesi",
+              "dahili": "",
+              "email": "ozgursoysalozdemir@karatekin.edu.tr"
+            },
+            {
+              "department": "Klinik Bilimler - Ortodonti",
+              "name": "Seda Akkerman",
+              "title": "Profesör",
+              "dahili": "",
+              "email": "sedaakkerman@karatekin.edu.tr"
+            },
+            {
+              "department": "Klinik Bilimler - Periodontoloji",
+              "name": "Başak Karasu",
+              "title": "Doktor Öğretim Üyesi",
+              "dahili": "7373",
+              "email": "basakkarasu@karatekin.edu.tr"
+            },
+            {
+              "department": "Klinik Bilimler - Periodontoloji",
+              "name": "Semra Eser",
+              "title": "Doktor Öğretim Üyesi",
+              "dahili": "",
+              "email": "semraeser@karatekin.edu.tr"
+            },
+            {
+              "department": "Klinik Bilimler - Periodontoloji",
+              "name": "Merve Salmanlı",
+              "title": "Doktor Öğretim Üyesi",
+              "dahili": "",
+              "email": "mervesalmanli@karatekin.edu.tr"
+            },
+            {
+              "department": "Klinik Bilimler - Restoratif Diş Tedavisi",
+              "name": "Ayşe Hançer Göymen",
+              "title": "Doktor Öğretim Üyesi",
+              "dahili": "",
+              "email": "aysehancergoymen@karatekin.edu.tr"
+            },
+            {
+              "department": "Temel Bilimler - Temel Bilimler",
+              "name": "Remzi Orkun Akgün",
+              "title": "Doktor Öğretim Üyesi",
+              "dahili": "7360",
+              "email": "roakgun@karatekin.edu.tr"
+            },
+            {
+              "department": "Temel Bilimler - Temel Bilimler",
+              "name": "Songül Şahin",
+              "title": "Doktor Öğretim Üyesi",
+              "dahili": "7374",
+              "email": "songulsahin@karatekin.edu.tr"
+            }
+          ],
+          "idari_personel": [
+            {
+              "unit": "Hasta Kayıt Alma Birimi",
+              "name": "Büro Personeli Seda Buket Karaca",
+              "title": "Büro Personeli",
+              "dahili": "7357",
+              "email": "sedabuketkaraca@karatekin.edu.tr"
+            },
+            {
+              "unit": "Personel Özlük İşleri Birimi",
+              "name": "Bilgisayar İşletmeni Yusuf Öz",
+              "title": "Bilgisayar İşletmeni",
+              "dahili": "7353",
+              "email": "yusufoz@karatekin.edu.tr"
+            },
+            {
+              "unit": "Sağlık Personeli Birimi",
+              "name": "Hemşire Haşim Çayır",
+              "title": "Hemşire",
+              "dahili": "7857",
+              "email": "hasimcayir@karatekin.edu.tr"
+            },
+            {
+              "unit": "Sağlık Personeli Birimi",
+              "name": "Hemşire Bilal Kapdan",
+              "title": "Hemşire",
+              "dahili": "7355",
+              "email": "bkapdan@karatekin.edu.tr"
+            },
+            {
+              "unit": "Sağlık Personeli Birimi",
+              "name": "Sağlık Teknikeri Melike Gültekin",
+              "title": "Sağlık Teknikeri",
+              "dahili": "",
+              "email": "melikegultekin@karatekin.edu.tr"
+            },
+            {
+              "unit": "Sağlık Personeli Birimi",
+              "name": "Teknisyen Özgenur Mumcu",
+              "title": "Teknisyen",
+              "dahili": "",
+              "email": "ozgenurm@karatekin.edu.tr"
+            },
+            {
+              "unit": "Sağlık Personeli Birimi",
+              "name": "Sağlık Memuru Murat Harmancı",
+              "title": "Sağlık Memuru",
+              "dahili": "7352",
+              "email": "yarenharmanci@karatekin.edu.tr"
+            },
+            {
+              "unit": "Satın Alma Birimi",
+              "name": "Bilgisayar İşletmeni Ümit Demirbağ",
+              "title": "Bilgisayar İşletmeni",
+              "dahili": "8827",
+              "email": "umitdemirbag@karatekin.edu.tr"
+            },
+            {
+              "unit": "Taşınır Kayıt Kontrol Yetkilisi",
+              "name": "Bilgisayar İşletmeni Tevfik İlhan",
+              "title": "Bilgisayar İşletmeni",
+              "dahili": "7362",
+              "email": "tevfikilhan@karatekin.edu.tr"
+            },
+            {
+              "unit": "Yazı İşleri Birimi",
+              "name": "Bilgisayar İşletmeni Selda Çiçek",
+              "title": "Bilgisayar İşletmeni",
+              "dahili": "7363",
+              "email": "seldacicek@karatekin.edu.tr"
+            }
+          ],
+          "fakulte_kurulu": [
+            {
+              "rol": "Başkan Vekili",
+              "name": "Prof. Dr. Özcan ÖZKAN"
+            },
+            {
+              "rol": "Temel Bilimler Bölüm Başkanı",
+              "name": "Dr. Öğr. Üyesi Remzi Orkun AKGÜN"
+            },
+            {
+              "rol": "Klinik Bilimler Bölüm Başkanı",
+              "name": "Dr. Öğr. Üyesi Başak KARASU"
+            },
+            {
+              "rol": "",
+              "name": "Dr. Öğr. Üyesi Zuhal ÖVUZ"
+            },
+            {
+              "rol": "",
+              "name": "Dr. Öğr. Üyesi Songül ŞAHİN"
+            },
+            {
+              "rol": "Fakülte Sekreteri-Raportör",
+              "name": "Ahmet YILDIRIM"
+            }
+          ],
+          "fakulte_sekreteri": {
+            "name": "Ahmet YILDIRIM",
+            "email": "ayildirim@karatekin.edu.tr",
+            "dahili": "7358"
+          },
+          "contact": {
+            "email": "dhf@karatekin.edu.tr",
+            "phone": "0(376) 218 95 78",
+            "address": "Uluyazı Kampüsü, Çankırı Karatekin Üniversitesi Diş Hekimliği Fakültesi, Çankırı",
+            "fax": "0(376) 218 95 79",
+            "web": "https://dis.karatekin.edu.tr/"
+          },
+          "bolumler": ["Temel Bilimler Bölümü", "Klinik Bilimler Bölümü"]
+        },
+        {
+          "category": "Fakülte",
+          "title": "Fen Fakültesi",
+          "dean": "Prof. Dr. Faruk Karaaslan",
+          "contact": {
+            "email": "fenfd@karatekin.edu.tr",
+            "phone": "+90 376 218 95 37",
+            "address": "Çankırı Karatekin Üniversitesi Uluyazı Kampüsü Fen Fakültesi",
+            "fax": "+90 376 218 95 41",
+            "web": "https://fen.karatekin.edu.tr/"
+          },
+          "bolumler": [
+            "Mateamatik Bölümü",
+            "Fizik Bölümü",
+            "Kimya Bölümü",
+            "Biyoloji Bölümü",
+            "İstatistik Bölümü",
+            "Matematik (İngilizce)"
+          ]
+        },
+        {
+          "category": "Fakülte",
+          "title": "Hukuk Fakültesi",
+          "dean": "Profesör Dr Hüseyin Odabaş",
+          "contact": {
+            "email": "hukukfakultesi@karatekin.edu.tr",
+            "phone": "+903762189570",
+            "address": "Fatih Mahallesi Uluyazı Kampüsü Hukuk Fakültesi",
+            "fax": "+903762189569",
+            "web": "https://hukuk.karatekin.edu.tr/"
+          },
+          "bolumler": ["Özel Hukuk Bölümü", "Kamu Hukuku Bölümü"]
+        },
+        {
+          "category": "Fakülte",
+          "title": "İktisadi ve İdari Bilimler Fakültesi",
+          "dean": "Prof. Dr. Yavuz Demirel",
+          "contact": {
+            "email": "iibf@karatekin.edu.tr",
+            "phone": "+90 (376) 218 95 42",
+            "address": "İktisadi İdari Bilimler Fakültesi, Uluyazı Kampüsü 18100 ÇANKIRI",
+            "fax": "+90 (376) 218 95 46",
+            "web": "https://iibf.karatekin.edu.tr"
+          },
+          "bolumler": [
+            "İşletme Bölümü",
+            "İktisat Bölümü",
+            "Uluslararası İlişkiler Bölümü",
+            "Siyaset Bilimi ve Kamu Yönetimi Bölümü",
+            "Finans ve Bankacılık Bölümü",
+            "Uluslararası Ticaret ve Finansman Bölümü",
+            "Çalışma Ekonomisi ve Endüstri İlişkileri Bölümü"
+          ]
+        },
+        {
+          "category": "Fakülte",
+          "title": "İnsan ve Toplum Bilimleri Fakültesi",
+          "dean": "Prof. Dr. Coşkun POLAT",
+          "contact": {
+            "email": "itbf@karatekin.edu.tr",
+            "phone": "0376 218 95 50",
+            "address": "Uluyazı Kampüsü İnsan ve Toplum Bilimleri Fakültesi",
+            "fax": "0376 218 95 51",
+            "web": "https://itbf.karatekin.edu.tr"
+          },
+          "bolumler": [
+            "Batı Dilleri ve Edebiyatları Bölümü",
+            "Türk Dili ve Edebiyatı Bölümü",
+            "Bilgi ve Belge Yönetimi Bölümü",
+            "Coğrafya Bölümü",
+            "Tarih Bölümü",
+            "Felsefe Bölümü",
+            "Sosyoloji Bölümü",
+            "Psikoloji Bölümü",
+            "Eği̇ti̇m Bi̇li̇mleri̇ Bölümü",
+            "Doğu Dilleri ve Edebiyatları Bölümü"
+          ]
+        },
+        {
+          "category": "Fakülte",
+          "title": "İslami İlimler Fakültesi",
+          "dean": "Prof. Dr. Hüseyin ODABAŞ",
+          "contact": {
+            "email": "islamiilimler@karatekin.edu.tr",
+            "phone": "+903762189560",
+            "address": "Uluyazı Kampüsü İslami İlimler Fakültesi Binası Kat:2",
+            "fax": "+903762189562",
+            "web": "https://islamiilimler.karatekin.edu.tr/"
+          },
+          "bolumler": [
+            "Temel İslam Bilimleri Bölümü",
+            "İslam Tarihi ve Sanatları Bölümü",
+            "Felsefe ve Din Bilimleri Bölümü"
+          ]
+        },
+        {
+          "category": "Fakülte",
+          "title": "Mühendislik Fakültesi",
+          "dean": "Profesör Dr Şebnem Kuşvuran",
+          "contact": {
+            "email": "muhendislik@karatekin.edu.tr",
+            "phone": "+90 376 218 95 32",
+            "address": " Çankırı Karatekin Üniversitesi Uluyazı Kampüsü",
+            "fax": "+90 376 218 95 36",
+            "web": "https://mf.karatekin.edu.tr/"
+          },
+          "bolumler": [
+            "Bilgisayar Mühendisliği Bölümü",
+            "Elektrik-Elektronik Mühendisliği Bölümü",
+            "Gıda Mühendisliği Bölümü",
+            "İnşaat Mühendisliği Bölümü",
+            "Makine Mühendisliği Bölümü",
+            "Kimya Mühendisliği Bölümü"
+          ]
+        },
+        {
+          "category": "Fakülte",
+          "title": "Orman Fakültesi",
+          "dean": "Profesör Muhammed Nuri Öner",
+          "contact": {
+            "email": "ormandekan@karatekin.edu.tr",
+            "phone": "+90 376 218 95 82",
+            "address": "Fen Fakültesi Binası, Uluyazı Kampüsü, Çankırı",
+            "fax": "-",
+            "web": "https://of.karatekin.edu.tr/"
+          },
+          "bolumler": [
+            "Orman Mühendisliği Bölümü",
+            "Peyzaj Mimarlığı Bölümü",
+            "Araştırma ve Uygulama Ormanları Bölümü"
+          ]
+        },
+        {
+          "category": "Fakülte",
+          "title": "Sağlık Bilimleri Fakültesi",
+          "dean": "Prof. Dr. Özcan ÖZKAN",
+          "contact": {
+            "email": "sbf@karatekin.edu.tr",
+            "phone": "03762189587",
+            "address": "Uluyazı Kampüsü",
+            "fax": "-",
+            "web": "https://sbf.karatekin.edu.tr/"
+          },
+          "bolumler": [
+            "Acil Yardım ve Afet Yönetimi Bölümü",
+            "Beslenme ve Diyetetik Bölümü",
+            "Fizyoterapi ve Rehabilitasyon Bölümü",
+            "Hemşirelik Bölümü",
+            "Sağlık Yönetimi Bölümü",
+            "Ebelik Bölümü",
+            "Çocuk Gelişimi Bölümü",
+            "Ergoterapi Bölümü",
+            "Gerontoloji Bölümü",
+            "Ortez Protez Bölümü",
+            "Odyoloji Bölümü",
+            "Sosyal Hizmet Bölümü"
+          ]
+        },
+        {
+          "category": "Fakülte",
+          "title": "Sanat, Tasarım ve Mimarlık Fakültesi",
+          "dean": "Prof. Dr. İbrahim Çiftçi",
+          "contact": {
+            "email": "stm@karatekin.edu.tr",
+            "phone": "+90 0376 218 95 22 ",
+            "address": "Sanat, Tasarım ve Mimarlık Fakültesi, Uluyazı Kampüsü, Çankırı, Türkiye",
+            "fax": "+90 0376 218 95 24 ",
+            "web": "https://stm.karatekin.edu.tr/"
+          },
+          "bolumler": [
+            "Çizgi Film ve Animasyon Bölümü",
+            "Geleneksel Türk Sanatları Bölümü",
+            "Grafik Tasarımı Bölümü",
+            "Heykel Bölümü",
+            "Tekstil ve Moda Tasarımı Bölümü",
+            "Müzik Bölümü",
+            "Resim Bölümü",
+            "Seramik Bölümü",
+            "Sinema ve Televizyon Bölümü",
+            "Temel Sanat Bilimleri Bölümü",
+            "İç Mimarlık Bölümü"
+          ]
+        },
+        {
+          "category": "Meslek Yüksekokulu",
+          "title": "Çerkeş Meslek Yüksekokulu",
+          "mudur": "Öğretim Görevlisi Bedri Eminsoy",
+          "contact": {
+            "email": "cerkesmyo@karatekin.edu.tr",
+            "phone": "+90 376 218 9584 - 6407 - 6406",
+            "address": "İdris Mah. Hükümet Cad. No:60 Çerkeş/ÇANKIRI",
+            "fax": "+90 376 218 95 00",
+            "web": "https://cerkesmyo.karatekin.edu.tr"
+          },
+          "bolumler": [
+            "Sağlık Bakım Hizmetleri Bölümü",
+            "Malzeme ve Malzeme İşleme Teknikleri Bölümü",
+            "Mimarlık ve Şehir Planlama Bölümü",
+            "Tasarım Bölümü",
+            "Bitkisel ve Hayvansal Üretim Bölümü"
+          ]
+        },
+        {
+          "category": "Meslek Yüksekokulu",
+          "title": "Eldivan Sağlık Hizmetleri Meslek Yüksekokulu",
+          "mudur": "Doçent Dr Fatih Güzel",
+          "contact": {
+            "email": "eshmyo@karatekin.edu.tr",
+            "phone": "0376 213 11 95 Dahili Hat: 6148-6230-6214-6242",
+            "address": "Yeni Mahalle Taşmescit Caddesi Meslek Yüksekokulu 18200 Merkez - ÇANKIRI",
+            "fax": "-",
+            "web": "https://eshmyo.karatekin.edu.tr/"
+          },
+          "bolumler": [
+            "Tıbbi Hizmetler ve Teknikler Bölümü",
+            "Çocuk Bakımı ve Gençlik Hizmetleri Bölümü"
+          ]
+        },
+        {
+          "category": "Meslek Yüksekokulu",
+          "title": "Gıda ve Tarım Meslek Yüksekokulu",
+          "mudur": "Prof. Dr. Alpaslan KUŞVURAN",
+          "contact": {
+            "email": "gidatarimmyo@karatekin.edu.tr",
+            "phone": "0376 218 95 89",
+            "address": "Uluyazı Kampüsü Mühendislik Fakültesi Kat 2 18200 Merkez/ÇANKIRI",
+            "fax": "0376 218 95 11",
+            "web": "https://gidatarimmyo.karatekin.edu.tr/"
+          },
+          "bolumler": [
+            "Park ve Bahçe Bitkileri Bölümü",
+            "Bitkisel ve Hayvansal Üretim Bölümü",
+            "Ormancılık Bölümü",
+            "Kimya ve Kimyasal İşletme Teknikleri Bölümü"
+          ]
+        },
+        {
+          "category": "Meslek Yüksekokulu",
+          "title": "Kurşunlu Meslek Yüksekokulu",
+          "mudur": "Doç. Dr. Ekrem Zahid Boyraz",
+          "contact": {
+            "email": "kadaletmyo@karatekin.edu.tr",
+            "phone": "(0376) 465 1622",
+            "address": "Cömertler Mahallesi Mehmet Akif Ersoy Caddesi No. 09 Posta Kodu: 18300 Kurşunlu/ÇANKIRI",
+            "fax": "-",
+            "web": "https://adaletmyo.karatekin.edu.tr/"
+          },
+          "bolumler": ["Hukuk Bölümü"]
+        },
+        {
+          "category": "Meslek Yüksekokulu",
+          "title": "Taşmescit Meslek Yüksekokulu",
+          "mudur": "Doç. Dr. Ömer Cem Karakoç",
+          "contact": {
+            "email": "myo@karatekin.edu.tr",
+            "phone": "+90 376 213 11 95 | +90 376 213 42 01",
+            "address": "Yeni Mahalle Taşmescit Karşısı 18200 Çankırı",
+            "fax": "+90 376 213 36 01",
+            "web": "https://myo.karatekin.edu.tr/"
+          },
+          "bolumler": [
+            "Bilgisayar Teknolojileri Bölümü",
+            "Büro Hizmetleri ve Sekreterlik Bölümü",
+            "Elektrik ve Enerji Bölümü",
+            "Elektronik ve Otomasyon Bölümü",
+            "Finans-Bankacılık ve Sigortacılık Bölümü",
+            "İnşaat Bölümü",
+            "Makine ve Metal Teknolojileri Bölümü",
+            "Muhasebe ve Vergi Bölümü",
+            "Otel Lokanta ve İkram Hizmetleri Bölümü",
+            "Tasarım Bölümü",
+            "Yönetim ve Organizasyon Bölümü"
+          ]
+        },
+        {
+          "category": "Meslek Yüksekokulu",
+          "title": "Sosyal Bilimler Meslek Yüksekokulu",
+          "mudur": "Doç. Dr. Barış ÖZTUNA",
+          "contact": {
+            "email": "sbmyo@karatekin.edu.tr",
+            "phone": "+90 (376) 218 95 42",
+            "address": "İktisadi İdari Bilimler Fakültesi, Uluyazı Kampüsü 18100 ÇANKIRI",
+            "fax": "+90 (376) 218 95 46",
+            "web": "https://sbmyo.karatekin.edu.tr/"
+          },
+          "bolumler": [
+            "Mülkiyet Koruma ve Güvenlik Bölümü",
+            "Sosyal Hizmet ve Danışmanlık Bölümü",
+            "Görsel, İşitsel Teknikler ve Medya Yapımcılığı Bölümü",
+            "Yönetim ve Organizasyon Bölümü"
+          ]
+        },
+        {
+          "category": "Meslek Yüksekokulu",
+          "title": "Şabanözü Meslek Yüksekokulu",
+          "mudur": "Prof. Dr. Celal Tuğrul ZEYREK",
+          "contact": {
+            "email": "sabanozu@karatekin.edu.tr",
+            "phone": "0376 218 95 83",
+            "address": "Yeni Mahalle Melih Gökçek Caddesi No:22 Şabanözü/ÇANKIRI",
+            "fax": "-",
+            "web": "https://sabanozu.karatekin.edu.tr/"
+          },
+          "bolumler": [
+            "Tıbbi Hizmetler ve Teknikler Bölümü",
+            "Veterinerlik Bölümü"
+          ]
+        },
+        {
+          "category": "Yüksekokul",
+          "title": "Ilgaz Turizm ve Otelcilik Yüksekokulu",
+          "mudur": "Dr. Öğr. Üyesi Mikail KARA",
+          "contact": {
+            "email": "ilgazturizm@karatekin.edu.tr",
+            "phone": "03764161700",
+            "address": "Gazidede Mah. Garaj Sok. No:13 Ilgaz/ÇANKIRI",
+            "fax": "-",
+            "web": "https://ilgazto.karatekin.edu.tr/"
+          },
+          "bolumler": [
+            "Turizm İşletmeciliği Bölümü",
+            "Turist Rehberliği Bölümü",
+            "Gastronomi ve Mutfak Sanatları Bölümü",
+            "Rekreasyon Bölümü"
+          ]
+        },
+        {
+          "category": "Koordinatörlük",
+          "title": "Ortak Dersler Koordinatörlüğü",
+          "koordinator": "Doç. Dr. Ebubekir KEKLİK",
+          "koordinator_yardimcilari": [
+            "Öğretim Görevlisi Doktor Bestami BİLGE",
+            "Öğretim Görevlisi Abdulkadir GÖKMEN"
+          ],
+          "yonetim_kurulu": [
+            {
+              "rol": "Başkan",
+              "title": "Doç. Dr. Ebubekir KEKLİK"
+            },
+            {
+              "rol": "Üye",
+              "title": "Öğretim Görevlisi Doktor Bestami BİLGE"
+            },
+            {
+              "rol": "Üye",
+              "title": "Öğretim Görevlisi Fikret KEDERSİZ"
+            },
+            {
+              "rol": "Üye",
+              "title": "Öğretim Görevlisi Abdulkadir GÖKMEN"
+            }
+          ],
+          "tanitim": "Ortak Dersler Koordinatörlüğü, Çankırı Karatekin Üniversitesi’ne bağlı Önlisans ve Lisans bölüm/programlarının müfredatlarında yer alan ortak zorunlu Atatürk İlkeleri ve İnkilap Tarihi, Yabancı Dil, Türk Dili gibi derslerin ve ortak seçmeli derslerin organizasyonunu ve koordinasyonunu etkin bir şekilde yürüterek, öğrencilerin daha özgüvenli, mesleki becerilerinin yanı sıra farklı becerileri de kazandırarak disiplinlerarası eğitim-öğretim sürecinden geçmiş mezunlar yetiştirmek amacı ile kurulmuştur. Üniversitemizde okuyan öğrencilerimiz okudukları bölüm/programlarının eğitiminden bağımsız olarak merak edip, ilgi duyduğu ya da kendini geliştirmek istediği herhangi bir alanda ortak dersleri seçebilmektedirler.",
+          "misyon": "Çankırı Karatekin Üniversitesi Ortak Dersler ile, 21.yy gereksinimlerine göre üniversite öğrencilerimizi hazırlamak ve evrensel nitelikte düşünebilmelerini sağlamak, çağın gerektiği teknolojiyi üretip kullanabilmelerine imkan sağlamak, öğrencilerimizin sadece okumakta oldukları bölüm/programların mesleki becerileri değil aynı zamanda kültürel, sosyal, sağlık gibi çok yönlü alanlarda beceri kazanmasına ve başarılı olmalarına yardımcı olmak, üniversitemizin zengin donanım ve tecrübeye sahip akademik kadrosunu daha geniş öğrenci kitlesiyle buluşturmak amaçlanmaktadır.",
+          "vizyon": "Öğrenci merkezli yaklaşım ile hem öğrencilerimizin hem de akademik kadromuzun memnuniyetinin ön plana çıkması hedeflenmektedir. Üniversitenin çeşitli birimlerinden öğrencilerin beraber alacağı ortak dersler, öğrencilere takım ruhu, kültürel zenginlik ve kaynaşma ortamı kazandıracaktır.",
+          "akademik_personel": [
+            {
+              "department": "Atatürk İlkeleri ve İnkılap Tarihi",
+              "name": "Ebubekir KEKLİK",
+              "title": "Doç. Dr.",
+              "dahili": "8917",
+              "email": "ebubekirkeklik@karatekin.edu.tr"
+            },
+            {
+              "department": "Atatürk İlkeleri ve İnkılap Tarihi",
+              "name": "İsmail KALAYCI",
+              "title": "Öğretim Görevlisi",
+              "dahili": "8921",
+              "email": "ismailkalayci@karatekin.edu.tr"
+            },
+            {
+              "department": "Atatürk İlkeleri ve İnkılap Tarihi",
+              "name": "Engin DENİZ",
+              "title": "Öğretim Görevlisi",
+              "dahili": "8916",
+              "email": "engindeniz@karatekin.edu.tr"
+            },
+            {
+              "department": "Atatürk İlkeleri ve İnkılap Tarihi",
+              "name": "İsa YILDIRIM",
+              "title": "Öğretim Görevlisi Doktor",
+              "dahili": "8920",
+              "email": "isayildirim@karatekin.edu.tr"
+            },
+            {
+              "department": "Enformatik Bölümü",
+              "name": "Semih KUTER",
+              "title": "Doçent",
+              "dahili": "3286",
+              "email": "semihkuter@karatekin.edu.tr"
+            },
+            {
+              "department": "Güzel Sanatlar Bölümü",
+              "name": "Elvan KARAKOÇ",
+              "title": "Doçent Dr",
+              "dahili": "1299",
+              "email": "elvankarakoc@karatekin.edu.tr"
+            },
+            {
+              "department": "Türk Dili Bölümü",
+              "name": "Bestami BİLGE",
+              "title": "Öğretim Görevlisi Doktor",
+              "dahili": "8913",
+              "email": "bbilge@karatekin.edu.tr"
+            },
+            {
+              "department": "Türk Dili Bölümü",
+              "name": "Asım Çağrı ŞENOL",
+              "title": "Öğretim Görevlisi Doktor",
+              "dahili": "8923",
+              "email": "csenol@karatekin.edu.tr"
+            },
+            {
+              "department": "Türk Dili Bölümü",
+              "name": "Kazım ÇANDIR",
+              "title": "Doç. Dr.",
+              "dahili": "8915",
+              "email": "kcandir@karatekin.edu.tr"
+            },
+            {
+              "department": "Türk Dili Bölümü",
+              "name": "Adem ARSLAN",
+              "title": "Öğretim Görevlisi Doktor",
+              "dahili": "8908",
+              "email": "arslanadem@karatekin.edu.tr"
+            },
+            {
+              "department": "Türk Dili Bölümü",
+              "name": "Fikret KEDERSİZ",
+              "title": "Öğretim Görevlisi",
+              "dahili": "8918",
+              "email": "fikretkedersiz@karatekin.edu.tr"
+            },
+            {
+              "department": "Yabancı Diller Bölümü",
+              "name": "Abdulkadir GÖKMEN",
+              "title": "Öğretim Görevlisi",
+              "dahili": "8902",
+              "email": "agokmen@karatekin.edu.tr"
+            },
+            {
+              "department": "Yabancı Diller Bölümü",
+              "name": "Alime YILMAZ",
+              "title": "Öğretim Görevlisi",
+              "dahili": "8903",
+              "email": "alimeyilmaz@karatekin.edu.tr"
+            },
+            {
+              "department": "Yabancı Diller Bölümü",
+              "name": "Hatice KIZILKAYA",
+              "title": "Öğretim Görevlisi Doktor",
+              "dahili": "8909",
+              "email": "hat_akcay@karatekin.edu.tr"
+            },
+            {
+              "department": "Yabancı Diller Bölümü",
+              "name": "Ebru YEMİŞENÖZÜ",
+              "title": "Öğretim Görevlisi Doktor",
+              "dahili": "8914",
+              "email": "ebruozu@karatekin.edu.tr"
+            },
+            {
+              "department": "Yabancı Diller Bölümü",
+              "name": "Selahattin EVREN",
+              "title": "Öğretim Görevlisi",
+              "dahili": "8910",
+              "email": "sevren@karatekin.edu.tr"
+            },
+            {
+              "department": "Yabancı Diller Bölümü",
+              "name": "Hakan BAYKAL",
+              "title": "Öğretim Görevlisi",
+              "dahili": "8906",
+              "email": "hbaykal@karatekin.edu.tr"
+            },
+            {
+              "department": "Yabancı Diller Bölümü",
+              "name": "Duran GÖKÇE",
+              "title": "Öğretim Görevlisi",
+              "dahili": "8919",
+              "email": "dgokce@karatekin.edu.tr"
+            },
+            {
+              "department": "Yabancı Diller Bölümü",
+              "name": "Ayşe İrem KÜTÜKOĞLU",
+              "title": "Öğretim Görevlisi",
+              "dahili": "8904",
+              "email": "irem@karatekin.edu.tr"
+            },
+            {
+              "department": "Yabancı Diller Bölümü",
+              "name": "Seda YAZICI KÖKSAL",
+              "title": "Öğretim Görevlisi",
+              "dahili": "8907",
+              "email": "sedayazici@karatekin.edu.tr"
+            },
+            {
+              "department": "Yabancı Diller Bölümü",
+              "name": "Seda YILMAZ SAKA",
+              "title": "Öğretim Görevlisi",
+              "dahili": "8905",
+              "email": "sysaka@karatekin.edu.tr"
+            }
+          ],
+          "idari_personel": [
+            {
+              "title": "Bilgisayar İşletmeni",
+              "name": "Lokman UĞURLU",
+              "dahili": "8901",
+              "email": "ugurlu@karatekin.edu.tr"
+            }
+          ],
+          "contact": {
+            "email": "ortakderslerkoord@karatekin.edu.tr",
+            "phone": "0376 218 95 00 - 8901",
+            "address": "Fatih Mah. Uluyazı Kampüsü İnsan ve Toplum Bilimleri Fakültesi 2. Kat 18200 Merkez/ÇANKIRI Türkiye",
+            "fax": "-",
+            "web": "https://ortakdersler.karatekin.edu.tr/"
+          },
+          "bolumler": [
+            "Atatürk İlkeleri ve İnkılap Tarihi Bölümü",
+            "Enformatik Bölümü",
+            "Yabancı Diller Bölümü",
+            "Ortak Dersler Bölümü",
+            "Türk Dili Bölümü",
+            "Güzel Sanatlar Bölümü"
+          ]
+        },
+        {
+          "category": "Enstitü",
+          "title": "Türkiyat Enstitüsü",
+          "mudur": "Prof. Dr. Abdulselam ARVAS",
+          "contact": {
+            "email": "turkiyat@karatekin.edu.tr",
+            "phone": "+ 90 376 218 95 73 / Dahili: 8782",
+            "address": "Çankırı Karatekin Üniversitesi Uluyazı Kampüsü İslami İlimler Fakültesi Binası 1. Kat Çankırı/ TÜRKİYE",
+            "fax": "+ 90 376 218 95 74",
+            "web": "https://turkiyat.karatekin.edu.tr"
+          }
+        },
+        {
+          "category": "Enstitü",
+          "title": "Lisansüstü Eğitim Enstitüsü",
+          "mudur": "Prof. Dr. Ersoy Yılmaz",
+          "contact": {
+            "email": "lisanustu@karatekin.edu.tr",
+            "phone": "+90 376 218 95 56",
+            "address": "Çankırı Karatekin Üniversitesi Uluyazı Kampüsü Lisansüstü Eğitim Enstitüsü Binası",
+            "fax": "+90 376 218 95 53",
+            "web": "https://lisanustu.karatekin.edu.tr/"
+          },
+          "anabilimdallari": [
+            [
+              {
+                "category": "Ana Bilim Dalı",
+                "title": "Bankacılık Ve Finans",
+                "programlar": ["Tezli Yüksek Lisans Programı"],
+                "baskan": "Prof. Dr. İbrahim BOZKURT"
+              },
+              {
+                "category": "Ana Bilim Dalı",
+                "title": "Bilgi Ve Belge Yönetimi",
+                "programlar": [
+                  "Doktora Programı",
+                  "Tezli Yüksek Lisans Programı",
+                  "Tezsiz Yüksek Lisans Programı (İÖ)"
+                ],
+                "baskan": ""
+              },
+              {
+                "category": "Ana Bilim Dalı",
+                "title": "Biyoloji",
+                "programlar": [
+                  "Tezli Yüksek Lisans Programı",
+                  "Doktora Programı"
+                ],
+                "baskan": "Prof. Dr. Ülkü Nihan YAZGAN TAVŞANOĞLU"
+              },
+              {
+                "category": "Ana Bilim Dalı",
+                "title": "Coğrafya",
+                "programlar": [
+                  "Doktora Programı",
+                  "Tezli Yüksek Lisans Programı"
+                ],
+                "baskan": "Prof. Dr. Murat TANRIKULU"
+              },
+              {
+                "category": "Ana Bilim Dalı",
+                "title": "Çevre Sağlığı",
+                "programlar": ["Tezli Yüksek Lisans Programı"],
+                "baskan": "Dr. Öğr. Üyesi İlker ŞİMŞEK"
+              },
+              {
+                "category": "Ana Bilim Dalı",
+                "title": "Çocuk Gelişimi",
+                "programlar": ["Tezli Yüksek Lisans Programı"],
+                "baskan": "Doç. Dr. Nazan KAYTEZ"
+              },
+              {
+                "category": "Ana Bilim Dalı",
+                "title": "Deney Hayvanları Bilimi",
+                "programlar": ["Tezli Yüksek Lisans Programı"],
+                "baskan": "Prof. Dr. Tünay KONTAŞ AŞKAR"
+              },
+              {
+                "category": "Ana Bilim Dalı",
+                "title": "Eğitim Bilimleri",
+                "programlar": [
+                  "Eğitimde Ölçme ve Değerlendirme Tezli Yüksek Lisans Programı",
+                  "Eğitim Yönetimi Tezsiz Yüksek Lisans Programı (İÖ)"
+                ],
+                "baskan": "Prof. Dr. Nuray ZAN"
+              },
+              {
+                "category": "Ana Bilim Dalı",
+                "title": "Elektrik-Elektronik Mühendisliği",
+                "programlar": [
+                  "Tezli Yüksek Lisans Programı",
+                  "Tezsiz Yüksek Lisans Programı"
+                ],
+                "baskan": "Doç. Dr. Fatih KORKMAZ"
+              },
+              {
+                "category": "Ana Bilim Dalı",
+                "title": "Elektronik ve Bilgisayar Mühendisliği",
+                "programlar": ["Tezli Yüksek Lisans Programı"],
+                "baskan": "Doç. Dr. Selim BUYRUKOĞLU"
+              },
+              {
+                "category": "Ana Bilim Dalı",
+                "title": "Felsefe",
+                "programlar": [
+                  "Doktora Programı",
+                  "Tezli Yüksek Lisans Programı"
+                ],
+                "baskan": "Prof. Dr. İlhan YILDIZ"
+              },
+              {
+                "category": "Ana Bilim Dalı",
+                "title": "Felsefe ve Din Bilimleri",
+                "programlar": ["Tezli Yüksek Lisans Programı"],
+                "baskan": "Doç. Dr. Zeynep YÜKSEL"
+              },
+              {
+                "category": "Ana Bilim Dalı",
+                "title": "Fizik",
+                "programlar": [
+                  "Tezli Yüksek Lisans Programı",
+                  "Doktora Programı"
+                ],
+                "baskan": "Prof. Dr. Ali YİĞİT"
+              },
+              {
+                "category": "Ana Bilim Dalı",
+                "title": "Gıda Mühendisliği",
+                "programlar": [
+                  "Tezli Yüksek Lisans Programı",
+                  "Doktora Programı"
+                ],
+                "baskan": "Prof. Dr. Baran ÖNAL ULUSOY"
+              },
+              {
+                "category": "Ana Bilim Dalı",
+                "title": "Hemşirelik",
+                "programlar": [
+                  "Halk Sağlığı Hemşireliği Tezli Yüksek Lisans Programı",
+                  "Halk Sağlığı Hemşireliği Doktora Programı",
+                  "Psikiyatri Hemşireliği Tezli Yüksek Lisans Programı",
+                  "Kadın Sağlığı ve Doğum Hemşireliği Tezli Yüksek Lisans Programı",
+                  "İç Hastalıkları Tezli Yüksek Lisans Programı"
+                ],
+                "baskan": "Dr. Öğr. Üyesi Müjgan ONARICI"
+              },
+              {
+                "category": "Ana Bilim Dalı",
+                "title": "İktisat",
+                "programlar": [
+                  "Doktora Programı",
+                  "Tezli Yüksek Lisans Programı",
+                  "Tezsiz Yüksek Lisans Programı (İÖ)"
+                ],
+                "baskan": "Prof. Dr. Harun YAKIŞIK"
+              },
+              {
+                "category": "Ana Bilim Dalı",
+                "title": "İnşaat Mühendisliği",
+                "programlar": ["Tezli Yüksek Lisans Programı"],
+                "baskan": "Prof. Dr. Ender SARIFAKIOĞLU"
+              },
+              {
+                "category": "Ana Bilim Dalı",
+                "title": "İstatistik",
+                "programlar": ["Tezli Yüksek Lisans Programı"],
+                "baskan": "Doç. Dr. Haydar KOÇ"
+              },
+              {
+                "category": "Ana Bilim Dalı",
+                "title": "İş Sağlığı ve Güvenliği",
+                "programlar": [
+                  "İş Sağlığı ve Güvenliği Uzaktan Öğretim Tezsiz Yüksek Lisans Programı",
+                  "İş Sağlığı ve Güvenliği Tezli Yüksek Lisans Programı"
+                ],
+                "baskan": "Doç. Dr. Ercüment Neşet DİZDAR"
+              },
+              {
+                "category": "Ana Bilim Dalı",
+                "title": "İşletme",
+                "programlar": [
+                  "Tezli Yüksek Lisans Programı",
+                  "Tezsiz Yüksek Lisans Programı",
+                  "Tezsiz Yüksek Lisans Programı (İÖ)",
+                  "Tezli Yüksek Lisans Programı (İngilizce)"
+                ],
+                "baskan": "Prof. Dr. Ela ÖZKAN CANPOLAT"
+              },
+              {
+                "category": "Ana Bilim Dalı",
+                "title": "Kimya",
+                "programlar": [
+                  "Tezli Yüksek Lisans Programı",
+                  "Tezli Yüksek Lisans Programı (İngilizce)",
+                  "Doktora Programı"
+                ],
+                "baskan": "Prof. Dr. Ali KARAİPEKLİ"
+              },
+              {
+                "category": "Ana Bilim Dalı",
+                "title": "Kimya Mühendisliği",
+                "programlar": [
+                  "Tezli Yüksek Lisans Programı",
+                  "Doktora Programı"
+                ],
+                "baskan": "Doç. Dr. Zehra ÖZBAŞ"
+              },
+              {
+                "category": "Ana Bilim Dalı",
+                "title": "Makine Mühendisliği",
+                "programlar": ["Tezli Yüksek Lisans Programı"],
+                "baskan": "Prof. Dr. Abdullah AKBULUT"
+              },
+              {
+                "category": "Ana Bilim Dalı",
+                "title": "Matematik",
+                "programlar": [
+                  "Tezli Yüksek Lisans Programı (Türkçe)",
+                  "Tezli Yüksek Lisans Programı (İngilizce)",
+                  "Doktora Programı"
+                ],
+                "baskan": "Prof. Dr. Faruk POLAT"
+              },
+              {
+                "category": "Ana Bilim Dalı",
+                "title": "Orman Mühendisliği",
+                "programlar": [
+                  "Tezli Yüksek Lisans Programı",
+                  "Tezli Yüksek Lisans Programı (İngilizce)",
+                  "Doktora Programı"
+                ],
+                "baskan": "Prof. Dr. Muhammed Nuri ÖNER"
+              },
+              {
+                "category": "Ana Bilim Dalı",
+                "title": "Peyzaj Mimarlığı",
+                "programlar": [
+                  "Tezli Yüksek Lisans Programı",
+                  "Doktora Programı"
+                ],
+                "baskan": "Prof. Dr. Nazan KELEŞ"
+              },
+              {
+                "category": "Ana Bilim Dalı",
+                "title": "Psikoloji",
+                "programlar": ["Tezli Yüksek Lisans Programı"],
+                "baskan": "Prof. Dr. Yeşim YASAK"
+              },
+              {
+                "category": "Ana Bilim Dalı",
+                "title": "Resim",
+                "programlar": ["Tezli Yüksek Lisans Programı"],
+                "baskan": "Doç. Dr. Bahar Başak ÜSTEL ARI"
+              },
+              {
+                "category": "Ana Bilim Dalı",
+                "title": "Sağlık Turizmi",
+                "programlar": ["Tezli Yüksek Lisans Programı"],
+                "baskan": "Dr. Öğr. Üyesi Mikail KARA"
+              },
+              {
+                "category": "Ana Bilim Dalı",
+                "title": "Sağlık Yönetimi",
+                "programlar": ["Tezli Yüksek Lisans Programı"],
+                "baskan": "Doç. Dr. Sinan BULUT"
+              },
+              {
+                "category": "Ana Bilim Dalı",
+                "title": "Sanat ve Tasarım",
+                "programlar": [
+                  "Tezli Yüksek Lisans Programı (Türkçe)",
+                  "Tezli Yüksek Lisans Programı (İngilizce)",
+                  "Sanatta Yeterlilik"
+                ],
+                "baskan": "Prof.Dr. Ersoy YILMAZ"
+              },
+              {
+                "category": "Ana Bilim Dalı",
+                "title": "Sinema ve Televizyon",
+                "programlar": ["Tezli Yüksek Lisans Programı"],
+                "baskan": "Doç.Dr.Tunç BORAN"
+              },
+              {
+                "category": "Ana Bilim Dalı",
+                "title": "Siyaset Bilimi Ve Kamu Yönetimi",
+                "programlar": [
+                  "Tezli Yüksek Lisans Programı",
+                  "Tezsiz Yüksek Lisans Programı (İÖ)"
+                ],
+                "baskan": "Prof. Dr. Gürbüz ÖZDEMİR"
+              },
+              {
+                "category": "Ana Bilim Dalı",
+                "title": "Siyaset Bilimi ve Uluslararası İlişkiler (İngilizce)",
+                "programlar": ["Tezli Yüksek Lisans Programı"],
+                "baskan": "Dr. Öğr. Üyesi Serkan ÜNAL"
+              },
+              {
+                "category": "Ana Bilim Dalı",
+                "title": "Sosyal Hizmet",
+                "programlar": ["Tezli Yüksek Lisans Programı"],
+                "baskan": "Prof. Dr. Azize Serap TUNÇER"
+              },
+              {
+                "category": "Ana Bilim Dalı",
+                "title": "Sosyoloji",
+                "programlar": [
+                  "Doktora Programı",
+                  "Tezli Yüksek Lisans Programı",
+                  "Tezsiz Yüksek Lisans Programı"
+                ],
+                "baskan": "Prof. Dr. Kemal DİL"
+              },
+              {
+                "category": "Ana Bilim Dalı",
+                "title": "Tarım ve Yaşam Bilimleri",
+                "programlar": ["Tezli Yüksek Lisans Programı"],
+                "baskan": "Prof. Dr. Alpaslan KUŞVURAN"
+              },
+              {
+                "category": "Ana Bilim Dalı",
+                "title": "Tarih",
+                "programlar": [
+                  "Doktora Programı",
+                  "Tezli Yüksek Lisans Programı",
+                  "Tezsiz Yüksek Lisans Programı (İÖ)"
+                ],
+                "baskan": "Doç. Dr. Gülnar KARA"
+              },
+              {
+                "category": "Ana Bilim Dalı",
+                "title": "Temel İslam Bilimleri",
+                "programlar": ["Tezli Yüksek Lisans Programı"],
+                "baskan": "Doç. Dr. Burhan ÇONKOR"
+              },
+              {
+                "category": "Ana Bilim Dalı",
+                "title": "Türk Dili Ve Edebiyatı",
+                "programlar": ["Tezli Yüksek Lisans Programı"],
+                "baskan": "Doç. Dr. Fatih SONA"
+              },
+              {
+                "category": "Ana Bilim Dalı",
+                "title": "Uluslararası İlişkiler",
+                "programlar": ["Tezli Yüksek Lisans Programı"],
+                "baskan": "Prof. Dr. Hatice YAZGAN"
+              },
+              {
+                "category": "Ana Bilim Dalı",
+                "title": "Uluslararası Ticaret Ve Finansman",
+                "programlar": ["Tezli Yüksek Lisans Programı"],
+                "baskan": "Doç. Dr. Nur ÇAĞLAR ÇETİNKAYA"
+              },
+              {
+                "category": "Ana Bilim Dalı",
+                "title": "Veteriner Parazitoloji",
+                "programlar": ["Tezli Yüksek Lisans Programı"],
+                "baskan": "Prof. Dr. Özcan ÖZKAN"
+              },
+              {
+                "category": "Ana Bilim Dalı",
+                "title": "Yaban Hayatı",
+                "programlar": ["Tezli Yüksek Lisans Programı"],
+                "baskan": "Doç. Dr. Tarkan YORULMAZ"
+              },
+              {
+                "category": "Ana Bilim Dalı",
+                "title": "Zoonotik Hastalıkların Kontrolü",
+                "programlar": ["Tezli Yüksek Lisans Programı"],
+                "baskan": "Dr. Öğr. Üyesi Banuçiçek YÜCESAN"
+              }
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "category": "İdari Birim",
+      "title": "Daire Başkanlıkları",
+      "items": [
+        {
+          "category": "Daire Başkanlığı",
+          "title": "Bilgi İşlem Daire Başkanlığı",
+          "yoneticiler": [
+            {
+              "name": "Mustafa Karhan",
+              "unvan": "Doç. Dr.",
+              "gorev": "Daire Başkan V.",
+              "dahili": "7101",
+              "email": "mustafakarhan@karatekin.edu.tr"
+            },
+            {
+              "name": "Sadettin Doğru",
+              "unvan": "Tekniker",
+              "gorev": "Şube Müdürü V.",
+              "birimi": "Yazılım Hizmetleri",
+              "dahili": "7110",
+              "email": "sadettin@karatekin.edu.tr"
+            },
+            {
+              "name": "Ebubekir Baş",
+              "unvan": "Tekniker",
+              "gorev": "Şube Müdürü",
+              "birimi": "Ağ ve Sunucu Hizmetleri - Teknik Servis",
+              "dahili": "7118",
+              "email": "ebubekirbas@karatekin.edu.tr"
+            },
+            {
+              "name": "Selcen Çelenkoğlu",
+              "unvan": "Tekniker",
+              "gorev": "Şube Müdürü",
+              "birimi": "İdari Hizmetler",
+              "dahili": "7103",
+              "email": "selcen@karatekin.edu.tr"
+            }
+          ],
+          "contact": {
+            "email": "bidb@karatekin.edu.tr",
+            "phone": "0(376) 218 95 21",
+            "address": "Uluyazı Kampüsü, Çankırı Karatekin Üniversitesi Kütüphane Binası, Çankırı",
+            "fax": "-",
+            "web": "https://bidb.karatekin.edu.tr/"
+          },
+          "bolumler": [
+            {
+              "title": "Yazılım Geliştirme Birimi",
+              "mudur": "Sadettin Doğru",
+              "yazilimlar": [
+                {
+                  "category": "Yazılım",
+                  "title": "Çakü Mobil Uygulama",
+                  "desc": "Üniversitemizin ihtiyacı doğrultusunda, öğrencilerin, personelin ve diğer son kullanıcıların üniversitemizin içeriklerini, güncellemelerini takip edebileceği, bunlarla ilgili güncellemeler alabileceği, öğrencilerin notlarını, ders programını, transkriptini ve sınavlarını görebileceği, personelin özlük bilgilerini, izin bilgilerini görebileceği bir mobil uygulamadır.Uygulama dart dili ile geliştirilmiştir. Proje yöneticisi Telat Kaya'dır. Geliştirici ekibi; Telat Kaya, Ayşe Doğru ve Nazlı Koymat'tır.Uygulamanın veri servisi KAPI (Karatekin Api) üzerinden sağlanmaktadır. Uygulamanın  app store ve play store üzerinden yayınlama işlemleri Telat Kaya tarafından gerçekleştirilmiştir. ÇAKÜ APP uygulamasına APP Store ve Play Store üzerinden erişilebilir. Uygulama tamamlanmış ve yayınlanmıştır, gelen talepler ve ihtiyaçlar doğrultusunda geliştirme hizmetleri devam etmektedir.",
+                  "web": "https://play.google.com/store/apps/details?id=com.karatekin.cakuapp",
+                  "ekip": [
+                    {
+                      "rol": "Proje Yöneticisi",
+                      "name": "Telat Kaya"
+                    },
+                    {
+                      "rol": "Geliştirici",
+                      "name": "Telat Kaya"
+                    },
+                    {
+                      "rol": "Geliştirici",
+                      "name": "Ayşe Doğru"
+                    },
+                    {
+                      "rol": "Geliştirici",
+                      "name": "Nazlı Koymat"
+                    }
+                  ]
+                },
+                {
+                  "category": "Yazılım",
+                  "title": "SKS Randevu Sistemi",
+                  "desc": "Sağlık Kültür Spor Dairesi Başkanlığı'ndan (SKS) gelen talep üzerine öğrenciler ve personellerin SKS sağlık biriminde çalışan uzmanlardan randevu alabilmesi için randevu sistemi ihtiyacı üzerine geliştirilen bir sistemdir. Uygulama .NetCore dilinde geliştirilmiştir ve veritabanı olarak MSSQL kullanılmıştır.  Uygulamanın tüm geliştirme, yayınlama ve destek süreci Telat Kaya tarafından gerçekleştirilmiştir.",
+                  "web": "https://sksrandevu.karatekin.edu.tr/",
+                  "ekip": [
+                    {
+                      "rol": "Proje Yöneticisi",
+                      "name": "Telat Kaya"
+                    },
+                    {
+                      "rol": "Geliştirici",
+                      "name": "Telat Kaya"
+                    }
+                  ]
+                },
+                {
+                  "category": "Yazılım",
+                  "title": "Karatekin Üniversitesi API Servis Sistemi (KAPI)",
+                  "desc": "Üniversitemizin ihtiyacı doğtultusunda geliştirilen KAPI (Karatekin Uygulama Programlama Arabirimi)  üniversitemizin verilerine, sunucu yazılımına veya diğer programlara ulaşabilmek için kullandığı bağlantı arayüzüdür. .NetCore dili ile geliştirilmiştir. Üniversitemizin bir çok verisini servisler üzerinden dağıtılan roller ile uygulamalara veya dış kaynaklara paylaşmayı sağlamaktadır. Uygulamanın proje yöneticisi Telat Kaya'dır. Geliştirici ekibi; Telat Kaya, Nazlı Koymat ve Ayşe Doğru'dan oluşmaktadır. Kullanıcıların giriş yapma, giriş doğrulama, öğrenci veri servisi, personel veri servisi, içerik servisleri gibi bir çok servis barındırmaktadır. Uygulama tamamlanmış ve yayınlanmıştır, gelen talepler ve ihtiyaçlar doğrultusunda geliştirme hizmetleri devam etmektedir.",
+                  "web": "https://api.karatekin.edu.tr/",
+                  "ekip": [
+                    {
+                      "rol": "Proje Yöneticisi",
+                      "name": "Telat Kaya"
+                    },
+                    {
+                      "rol": "Geliştirici",
+                      "name": "Telat Kaya"
+                    },
+                    {
+                      "rol": "Geliştirici",
+                      "name": "Ayşe Doğru"
+                    },
+                    {
+                      "rol": "Geliştirici",
+                      "name": "Nazlı Koymat"
+                    }
+                  ]
+                },
+                {
+                  "category": "Yazılım",
+                  "title": "ErasmusApp",
+                  "desc": "ÇAKÜ Erasmus Koordinatörlüğünden gelen talep üzerine Erasmus ile ilgili bilgilerin kolay erişilebilir olması amacıyla geliştirilen bir sistemdir. Uygulama  tarafı .NetCore dili ile geliştirilmiştir ve veritabanı tarafı MSSQL ile geliştirilmiştir. Uygulamanın yönetim paneli  tarafı Telat Kaya, kullanıcı arayüzü tarafı Nazlı Koymat ve veritabanı oluşturma kısmı İrem Nur Ecemiş tarafından geliştirilmiştir.",
+                  "web": "https://erasmus.karatekin.edu.tr/",
+                  "ekip": [
+                    {
+                      "rol": "Proje Yöneticisi",
+                      "name": "Telat Kaya"
+                    },
+                    {
+                      "rol": "Geliştirici",
+                      "name": "Telat Kaya"
+                    },
+                    {
+                      "rol": "Geliştirici",
+                      "name": "Nazlı Koymat"
+                    },
+                    {
+                      "rol": "Geliştirici",
+                      "name": "İrem Nur Ecemiş"
+                    }
+                  ]
+                },
+                {
+                  "category": "Yazılım",
+                  "title": "Websitem",
+                  "desc": "Üniversitemizin ihtiyacı doğrultusunda, tüm personelimizin kişisel web sayfası olmasını sağlamak amacıyla geliştirilen bir uygulamadır. Uygulamanın tüm geliştirme, yayınlama ve destek süreci Telat Kaya tarafından C# dili kullanılarak gerçekleştirilmiştir. Özellike akademik personelin öğrenciler ile dosya, ödev, yayın gibi bir çok paylaşımı websitem uygulaması üzerinden paylaşmasını sağlamaktadır. Ayrıca her personel giriş yaptığında özlük bilgilerini ve izin bilgilerini görüp takip edebilmektedir.Uygulama tamamlanmış ve yayınlanmıştır, gelen talepler ve ihtiyaçlar doğrultusunda geliştirme hizmetleri devam etmektedir.",
+                  "web": "https://websitem.karatekin.edu.tr/",
+                  "ekip": [
+                    {
+                      "rol": "Proje Yöneticisi",
+                      "name": "Telat Kaya"
+                    },
+                    {
+                      "rol": "Geliştirici",
+                      "name": "Telat Kaya"
+                    }
+                  ]
+                },
+                {
+                  "category": "Yazılım",
+                  "title": "Chatbot",
+                  "desc": "Üniversitemizin ihtiyacı doğrultusunda, kullanıcıların sorularına cevap verebilen yapay zeka destekli bir model geliştirilmektedir. NLP (Doğal dil işleme) ve NLU (Doğal dil anlama) algoritmaları kullanılarak, Rasa NLU Framework tabanlı bir arayüz geliştirilmiştir. Soru-Cevap botunun eğitim süreçleri hala devam etmektedir.",
+                  "web": "https://cakubot.karatekin.edu.tr/",
+                  "ekip": [
+                    {
+                      "rol": "Proje Yöneticisi",
+                      "name": "Telat Kaya"
+                    },
+                    {
+                      "rol": "Geliştirici",
+                      "name": "Telat Kaya"
+                    }
+                  ]
+                },
+                {
+                  "category": "Yazılım",
+                  "title": "Etik Kurul Başvuru ve Değerlendirme Sistemi",
+                  "desc": "Rektörlük'ten gelen talep doğrultusunda; Etik Kurul başvuruları için online bir uygulama geliştirilen bir web uygulamasıdır. Uygulamanın tüm geliştirme, yayınlama ve destek süreçleri Telat Kaya tarafından yapılmıştır. Uygulama NetCore dilinde geliştirilmiştir ve veritabanı için MSSQL kullanılmıştır.İç ve dış kullanıcılar online sisteme kayıt olarak, başvurularını yapabilir ve Etik Kurul üyelerine sunabilirler. Üyeler toplantı zamanı dönem için başvuruları değerlendirebilir, düzeltme verebilir, reddedebilir veya kabul edebililer. Sistem Sağlık Bilimleri Etik Kurulu ve Fen Bilimleri Etik Kurulu olmak üzere iki adet etik kurul barındırmaktadır. Uygulama tamamlanmış ve yayınlanmıştır, gelen talepler ve ihtiyaçlar doğrultusunda geliştirme hizmetleri devam etmektedir.",
+                  "web": "https://etikkurul.karatekin.edu.tr/",
+                  "ekip": [
+                    {
+                      "rol": "Proje Yöneticisi",
+                      "name": "Telat Kaya"
+                    },
+                    {
+                      "rol": "Geliştirici",
+                      "name": "Telat Kaya"
+                    }
+                  ]
+                },
+                {
+                  "category": "Yazılım",
+                  "title": "Stajyer Takip Sistemi",
+                  "desc": "Üniversitemizin ihtiyacı doğrultusunda, birimlerde çalışan stajer öğrenciler için kimlik kartı basımı ve gün takibi yapmak için geliştirilmiş bir web uygulamasıdır. Uygulamanın tüm geliştirme, yayınlama ve destek süreçleri Telat Kaya tarafından yürütülmektedir.Uygulama NetCore dilinde geliştirilmiştir ve veritabanı yapısı için MSSQL kullanılmıştır.Uygulama tamamlanmış ve yayınlanmıştır, gelen talepler ve ihtiyaçlar doğrultusunda geliştirme hizmetleri devam etmektedir.",
+                  "web": "https://stajer.karatekin.edu.tr/",
+                  "ekip": [
+                    {
+                      "rol": "Proje Yöneticisi",
+                      "name": "Telat Kaya"
+                    },
+                    {
+                      "rol": "Geliştirici",
+                      "name": "Telat Kaya"
+                    }
+                  ]
+                },
+                {
+                  "category": "Yazılım",
+                  "title": "Kantin & Kafe Bilgilendirme Sistemi",
+                  "desc": "Üniversitemizin ihtiyacı doğrultusunda, kantin ve kafelerde satılan ürünlerin fiyat takibini yapmak ve sunmak için geliştirilmiş bir web uygulamasıdır. Uygulamanın tüm geliştirme, yayınlama ve destek süreçleri Telat Kaya tarafından yürütülmektedir.Uygulama NetCore dilinde geliştirilmiştir ve veritabanı yapısı için MSSQL kullanılmıştır.Uygulama tamamlanmış ve yayınlanmıştır, gelen talepler ve ihtiyaçlar doğrultusunda geliştirme hizmetleri devam etmektedir.",
+                  "web": "https://tuzlukkafe.karatekin.edu.tr/",
+                  "ekip": [
+                    {
+                      "rol": "Proje Yöneticisi",
+                      "name": "Telat Kaya"
+                    },
+                    {
+                      "rol": "Geliştirici",
+                      "name": "Telat Kaya"
+                    }
+                  ]
+                },
+                {
+                  "category": "Yazılım",
+                  "title": "Merkez Laboratuvar Başvuru ve Takip Sistemi",
+                  "desc": "Rektörlükten gelen talep doğrultusunda, Merkez Laboratuvarında kullanılmak üzere, numune başvurusu, analiz başvurusu ve faturalandırma için geliştirilen bir web uygulamasıdır.Uygulamanın tüm geliştirme, yayınlama ve destek süreçleri Telat Kaya tarafından yürütülmektedir.Uygulama NetCore dilinde geliştirilmiştir ve veritabanı yapısı için MSSQL kullanılmıştır.Uygulama tamamlanmış ve yayınlanmıştır, gelen talepler ve ihtiyaçlar doğrultusunda geliştirme hizmetleri devam etmektedir.",
+                  "web": "https://merkezlab.karatekin.edu.tr/",
+                  "ekip": [
+                    {
+                      "rol": "Proje Yöneticisi",
+                      "name": "Telat Kaya"
+                    },
+                    {
+                      "rol": "Geliştirici",
+                      "name": "Telat Kaya"
+                    }
+                  ]
+                },
+                {
+                  "category": "Yazılım",
+                  "title": "Aday Öğrenci Bilgilendirme Web Uygulaması",
+                  "desc": "Rektörlük'ten gelen talep doğrultusunda; öğrenci adaylarımıza üniversitemizin tanıtımı için 4 dilde (Türkçe, İngilizce, Fransızca ve Arapça) geliştirilen bir web uygulamasıdır. Uygulamanın tüm geliştirme, yayınlama ve destek süreci Telat Kaya tarafından gerçekleştirilmiştir. Uygulama tamamlanmış ve yayınlanmıştır, gelen talepler ve ihtiyaçlar doğrultusunda geliştirme hizmetleri devam etmektedir.",
+                  "web": "https://aday.karatekin.edu.tr/",
+                  "ekip": [
+                    {
+                      "rol": "Proje Yöneticisi",
+                      "name": "Telat Kaya"
+                    },
+                    {
+                      "rol": "Geliştirici",
+                      "name": "Telat Kaya"
+                    }
+                  ]
+                },
+                {
+                  "category": "Yazılım",
+                  "title": "Tuz İhtisas Web Uygulaması",
+                  "desc": "Tuz İhtisas Koordinatörlüğü'nden gelen talep doğrultusunda ihtisaslaşmaya özel bir web uygulaması geliştirilmiştir. Uygulamanın tüm geliştirme, yayınlama ve destek süreci Telat Kaya tarafından gerçekleştirilmiştir. Tuz İhtisas Web Uygulaması kullanıcılara bu ihtisaslıkla ilgili gelişmeleri sunmayı amaçlamaktadır.Uygulama tamamlanmış ve yayınlanmıştır, gelen talepler ve ihtiyaçlar doğrultusunda geliştirme hizmetleri devam etmektedir.",
+                  "web": "https://tuzihtisas.karatekin.edu.tr/",
+                  "ekip": [
+                    {
+                      "rol": "Proje Yöneticisi",
+                      "name": "Telat Kaya"
+                    },
+                    {
+                      "rol": "Geliştirici",
+                      "name": "Telat Kaya"
+                    }
+                  ]
+                },
+                {
+                  "category": "Yazılım",
+                  "title": "Rehber ve Personel Arama Sistemi",
+                  "desc": "Üniversitemizin ihtiyacı doğtultusunda, üniversitede çalışan personellerin iletişim bilgilerinin gösterilmesi, sorgulanması ve görev yeri, ünvan bilgisi, e-posta adresi bilgisi, dahili numara bilgisi şeklindeki bilgilerin personel arayayarak bulunmasını sağlayan bir sistemdir. Uygulama C# ve Javascript dili ile geliştirilmiştir. Veritabanı için Api Servisi kullanılmaktadır. Uygulamanın tüm geliştirme, yayınlama ve destek süreci Telat Kaya tarafından gerçekleştirilmiştir. Uygulama tamamlanmış ve yayınlanmıştır, gelen talepler ve ihtiyaçlar doğrultusunda geliştirme hizmetleri devam etmektedir.",
+                  "web": "https://rehber.karatekin.edu.tr/",
+                  "ekip": [
+                    {
+                      "rol": "Proje Yöneticisi",
+                      "name": "Telat Kaya"
+                    },
+                    {
+                      "rol": "Geliştirici",
+                      "name": "Telat Kaya"
+                    }
+                  ]
+                },
+                {
+                  "category": "Yazılım",
+                  "title": "Elektronik Belge Yönetim Sistemi (EBYS)",
+                  "desc": "Elektronik Evrak işlerini yöneten uygulamadır. Dışarıdan satın alım yöntemi ile temin edilmiştir.",
+                  "web": "https://ebys.karatekin.edu.tr/"
+                },
+                {
+                  "category": "Yazılım",
+                  "title": "Personel Otomasyon Sistemi",
+                  "desc": "Personel Otomasyon Sistemi; akademik,idari ve sürekli işçi personellerinin tüm temel bilgilerini saklayarak yönetim ve erişim süreçlerini kolaylaştırmak amacıyla geliştirilmiştir. Bu sistem Personel Daire Başkanlığı'ndan gelen talep doğrultusunda geliştirilmiştir. Uygulama Asp.Net Web Form alt yapısıyla C# dilinde geliştirilmiştir ve veritabanı olarak MSSQL kullanılmıştır. Bu sistemin Frontend kısmı HTML,CSS,JavaScript ve AJAX teknolojileri ile dinamaik ve kullanıcı dostu arayüz tasarımı yapılmıştır. Responsive bir tasarım sağlanarak farklı cihazlardan kolay erişim imkanı sunulmuştur. Rol tanımlama, Rol Yetkilendirme, Kullanıcıya Rol Yetkisi tanımlama işlemleri ile yetkili kullanıcılar için rol tabanlı bir erişim kontrol sistemi kullanılmaktadır. Admin Rolündeki kullanıcı sistemin tüm yetkisine sahiptir.Kaydetme, güncelleme ve silme yetkisi bulunmaktadır. Uygulamanın tüm geliştirme, yayınlama ve destek süreci Ayşe DOĞRU tarafından gerçekleştirilmiştir.",
+                  "web": "https://personelapp.karatekin.edu.tr/",
+                  "ekip": [
+                    {
+                      "rol": "Proje Yöneticisi",
+                      "name": "Ayşe Doğru"
+                    },
+                    {
+                      "rol": "Geliştirici",
+                      "name": "Ayşe Doğru"
+                    }
+                  ]
+                },
+                {
+                  "category": "Yazılım",
+                  "title": "Personel Takip Otomasyonu",
+                  "desc": "Rektör, Rektör Yardımcıları, Genel Sekreter ve Daire Başkanları'ndan gelen talep doğrultusunda geliştirilmiş bir sistemdir. Uygulama Asp.Net Web Form alt yapısıyla C# dilinde geliştirilmiştir ve veritabanı olarak MSSQL kullanılmıştır. Bu sistemin Frontend kısmı HTML,CSS,JavaScript ve AJAX teknolojileri ile dinamaik ve kullanıcı dostu arayüz tasarımı yapılmıştır. Responsive bir tasarım sağlanarak farklı cihazlardan kolay erişim imkanı sunulmuştur. Rol tanımlama, Rol Yetkilendirme, Kullanıcıya Rol Yetkisi tanımlama işlemleri ile yetkili kullanıcılar için rol tabanlı bir erişim kontrol sistemi kullanılmaktadır",
+                  "web": "https://personeltakip.karatekin.edu.tr/",
+                  "ekip": [
+                    {
+                      "rol": "Proje Yöneticisi",
+                      "name": "Ayşe Doğru"
+                    },
+                    {
+                      "rol": "Geliştirici",
+                      "name": "Ayşe Doğru"
+                    }
+                  ]
+                },
+                {
+                  "category": "Yazılım",
+                  "title": "SMS Otomasyonu",
+                  "desc": "Üniversite bünyesinde hizmet veren tüm idari ve akademik birimlerin istekleri doğrultusunda geliştirilen bir sistemdir. Sms Otomasyonu akademik, idari ve sürekli işçi personellerine sms gönderilmesi amacıyla yazılmış otomasyon programıdır. Uygulama Asp.Net Web Form alt yapısıyla C# dilinde geliştirilmiştir ve veritabanı olarak MSSQL kullanılmıştır. Bu sistemin Frontend kısmı HTML,CSS,JavaScript ve AJAX teknolojileri ile dinamaik ve kullanıcı dostu arayüz tasarımı yapılmıştır. Responsive bir tasarım sağlanarak farklı cihazlardan kolay erişim imkanı sunulmuştur. Rol tanımlama, Rol Yetkilendirme, Kullanıcıya Rol Yetkisi tanımlama işlemleri ile yetkili kullanıcılar için rol tabanlı bir erişim kontrol sistemi kullanılmaktadır. Admin Rolündeki kullanıcı sistemin tüm yetkisine sahiptir.Kaydetme, güncelleme ve silme yetkisi bulunmaktadır. Uygulamanın tüm geliştirme, yayınlama ve destek süreci Ayşe DOĞRU  tarafından gerçekleştirilmiştir.",
+                  "web": "https://sms.karatekin.edu.tr/",
+                  "ekip": [
+                    {
+                      "rol": "Proje Yöneticisi",
+                      "name": "Ayşe Doğru"
+                    },
+                    {
+                      "rol": "Geliştirici",
+                      "name": "Ayşe Doğru"
+                    }
+                  ]
+                },
+                {
+                  "category": "Yazılım",
+                  "title": "İzin Otomasyonu",
+                  "desc": "Üniversite bünyesinde hizmet veren tüm idari ve akademik birimlerin istekleri doğrultusunda geliştirilen bir sistemdir. İzin Otomosyonu, akademik ve idari personellerin yıllık izin, mazaret izni, sıhhi izin, yurt dışı izni ve görevlendirme bilgilerinin kaydının tutulduğu bir yazılmış otomasyon sistemidir.Uygulama Asp.Net Web Form alt yapısıyla C# dilinde geliştirilmiştir ve veritabanı olarak MSSQL kullanılmıştır. Bu sistemin Frontend kısmı HTML,CSS,JavaScript ve AJAX teknolojileri ile dinamaik ve kullanıcı dostu arayüz tasarımı yapılmıştır. Responsive bir tasarım sağlanarak farklı cihazlardan kolay erişim imkanı sunulmuştur. Rol tanımlama, Rol Yetkilendirme, Kullanıcıya Rol Yetkisi tanımlama işlemleri ile yetkili kullanıcılar için rol tabanlı bir erişim kontrol sistemi kullanılmaktadır. Admin Rolündeki kullanıcı sistemin tüm yetkisine sahiptir.Kaydetme, güncelleme ve silme yetkisi bulunmaktadır. Uygulamanın tüm geliştirme, yayınlama ve destek süreci Ayşe DOĞRU  tarafından gerçekleştirilmiştir.",
+                  "web": "https://izintakip.karatekin.edu.tr/",
+                  "ekip": [
+                    {
+                      "rol": "Proje Yöneticisi",
+                      "name": "Ayşe Doğru"
+                    },
+                    {
+                      "rol": "Geliştirici",
+                      "name": "Ayşe Doğru"
+                    }
+                  ]
+                },
+                {
+                  "category": "Yazılım",
+                  "title": "LDAP Yönetim Sistemi",
+                  "desc": "Üniversite Eposta ve Güvenlik duvarı üzerinden internete giriş yetkilendirme işlemlerinde kullanılacak bilgilerin ortak bir alanda toplanması için kurulan openLDAP programının yönetilmesi ve hesap kayıtlarının tutulması için geliştirilmiştir. Uygulama ASP.NET ile geliştirilmiştir, openLDAP ile birlikte PostgreSQL veritabanı kullanmaktadır. Uygulama geliştirme süreci Tekniker Selman Göktaş ile başlamıştır, güncel haline Hüseyin Şahiner tarafından getirilmiştir, ayınlama ve destek süreci tamamen Hüseyin şahiner tarafından yapılmaktadır.",
+                  "web": "https://sifre.karatekin.edu.tr/",
+                  "ekip": [
+                    {
+                      "rol": "Proje Yöneticisi",
+                      "name": "Hüseyin Şahiner"
+                    },
+                    {
+                      "rol": "Geliştirici",
+                      "name": "Hüseyin Şahiner"
+                    }
+                  ]
+                },
+                {
+                  "category": "Yazılım",
+                  "title": "Sosyal Transkript Sistemi",
+                  "desc": "Üniversite Öğrencilerinin yaptıkları sosyal faliyetleri kayıt altına alabilecekleri, doğrulanabilir belge alabilecekleri bir sistem oluşturulmuştur. Fakülte ve Yüksekokullarda oluşturulacak kurullar tarafından belli periyotlarda girilen faaliyetlerin geçerli olup olmadığı kontrol edilerek kabul edilen faaliyetlerbelgesine yansıyacaktır. Uygulama ASP.NET ile geliştirilmiştir ve PostgreSQL veritabanı kullanmaktadır. Uygulamanın tüm geliştirme, yayınlama ve destek süreci Hüseyin Şahiner tarafından gerçekleştirilmiştir.",
+                  "web": "https://sosyaltranskript.karatekin.edu.tr/",
+                  "ekip": [
+                    {
+                      "rol": "Proje Yöneticisi",
+                      "name": "Hüseyin Şahiner"
+                    },
+                    {
+                      "rol": "Geliştirici",
+                      "name": "Hüseyin Şahiner"
+                    }
+                  ]
+                },
+                {
+                  "category": "Yazılım",
+                  "title": "E-devlet Sertifika Sistemi",
+                  "desc": "Dil Eğitim ve Yaşamboyu Öğretim Merkezleri tarafından talep edilen, verilen kurslara ait sertifikaların e-Devlet üzerinde yayınlanmasıiçin kurulan sistemdir. Öğrenciler birimlerden aldıkları sertifikaları hem E-Devlet üzerinden hemde birimlerden, e-Devlet üzerinden doğrulayabilir. Uygulama arayüzde ASP.NET ile, servis kısmında PHP ile geliştirilmiştir ve PostgreSQL veritabanı kullanmaktadır. Uygulamanın tüm geliştirme, yayınlama ve destek süreci Hüseyin Şahiner tarafından gerçekleştirilmiştir.",
+                  "ekip": [
+                    {
+                      "rol": "Proje Yöneticisi",
+                      "name": "Hüseyin Şahiner"
+                    },
+                    {
+                      "rol": "Geliştirici",
+                      "name": "Hüseyin Şahiner"
+                    }
+                  ]
+                },
+                {
+                  "category": "Yazılım",
+                  "title": "Web Siteleri",
+                  "desc": "Akademik ve idari birimlerin bilgi paylaşması amacıyla geliştirilmiştir. Uygulama Asp.Net Web Form'da C# dilinde geliştirilmiştir ve veritabanı olarak MSSQL kullanılmıştır. Bu sistemin Frontend  kısımı  HTML, CSS, JavaScript, Ajax kullanılarak kullanıcı arayüzü tasarımı, Responsive tasarım ile her cihazda uyumlu görüntüleme, Backend Geliştirme olarak karapi servisi ve Web Yönetim Paneli Sistemi ile entegre yapıdadır. Bu Servisler aracılığı ile alınan veriler dinamik olarak web sitelerine yansıtılır, Web Siteleri İçerik Sorumluları türleri Admin, Web Siteleri Ana Koordinatörü, Web Siteleri Koordinatörü, Web Siteleri Kullanıcısı olarak tanımlanır. Uygulamanın geliştirme süreci Telat KAYA ve Nazlı KOYMAT tarafından gerçekleştirilmiştir, yayınlama ve destek süreci Nazlı KOYMAT tarafından gerçekleştiriliyor.",
+                  "web": "https://fen.karatekin.edu.tr/",
+                  "ekip": [
+                    {
+                      "rol": "Proje Yöneticisi",
+                      "name": "Nazlı Koymat"
+                    },
+                    {
+                      "rol": "Geliştirici",
+                      "name": "Nazlı Koymat"
+                    }
+                  ]
+                },
+                {
+                  "category": "Yazılım",
+                  "title": "Web Siteleri Yönetim Paneli Sistemi",
+                  "desc": "Üniversite birim ve bölümlerinin web sayfalarında görülmesini istedikleri verilerin girildiği sistemdir. Uygulama Asp web form dilinde geliştirilmiştir ve veritabanı olarak MSSQL kullanılmıştır. Bu sistemin Frontend  kısımı HTML, CSS, JavaScript, kullanılarak kullanıcı arayüzü tasarımı  ve   yetkilendirme olarak karapi servisi ile entegre yapıdadır.Backend Geliştirme olarak Yetkilendirme ve kullanıcı rolleri (Admin, Web Siteleri Ana Koordinatörü, Web Siteleri Koordinatörü, Web Siteleri Kullanıcısı) için rol tabanlı erişim kontrolü bulunmaktadır.Uygulamanın geliştirme süreci Telat KAYA ve Nazlı KOYMAT tarafından gerçekleştirilmiştir, yayınlama ve destek süreci Nazlı KOYMAT tarafından gerçekleştiriliyor.",
+                  "web": "https://admin.karatekin.edu.tr/",
+                  "ekip": [
+                    {
+                      "rol": "Proje Yöneticisi",
+                      "name": "Nazlı Koymat"
+                    },
+                    {
+                      "rol": "Geliştirici",
+                      "name": "Nazlı Koymat"
+                    }
+                  ]
+                },
+                {
+                  "category": "Yazılım",
+                  "title": "Karatekin Üniversitesi Ana Sayfası",
+                  "desc": "Uygulama Asp.net dilinde geliştirilmiştir ve veritabanı olarak MSSQL kullanılmıştır.•Üniversitemize dair haberlerin, duyuruların etkinliklerinin yayınlandığı ana sitedir.• Bu sistemin Frontend  kısımı HTML, CSS, JavaScript, kullanılarak kullanıcı arayüzü tasarımı ve karapi servisi ile entegre yapıdadır.• Backend Geliştirme olarak Yetkilendirme ve kullanıcı rolleri (Admin, Web Siteleri Ana Koordinatörü, Web Siteleri Koordinatörü, Web Siteleri Kullanıcısı) için rol tabanlı erişim kontrolü bulunmaktadır. • Tüm İçerikler Web Yönetim Paneli Sisteminden rollere göre yetkililer tarafından giriş yapılarak kaydedilir.",
+                  "web": "https://karatekin.edu.tr/",
+                  "ekip": [
+                    {
+                      "rol": "Proje Yöneticisi",
+                      "name": "Nazlı Koymat"
+                    },
+                    {
+                      "rol": "Geliştirici",
+                      "name": "Nazlı Koymat"
+                    }
+                  ]
+                },
+                {
+                  "category": "Yazılım",
+                  "title": "Çakümer Sistemi",
+                  "desc": " Uygulama Asp.net Core dilinde geliştirildi ve veritabanı olarak MSSQL kullanılmıştır.  •Bu sistemin  HTML, CSS, JavaScript,Ajax kullanılarak kullanıcı arayüzü tasarımı  ve  yetkilendirme olarak karapi servisi ile entegre yapıdadır.•Sistem Çakümer Koordinatör ve Kullanıcısı için yönetim paneli arayüzü ( cakumer.karatekin.edu.tr/login ) ve Çakümer Sistemi Üyesi için yönetim Paneli arayüzü ( cakumer.karatekin.edu.tr/profil) ve Çakümer Giriş ekranından ( cakumer.karatekin.edu.tr ) oluşmaktadır.•Yetkilendirme ve kullanıcı rolleri (Admin, Çakümer Koordinatörü, Çakümer  Kullanıcısı, Çakümer Sistemi Üyesi,) için rol tabanlı erişim kontrolü bulunmaktadır.•Çakümer Sistemi Kullanıcısı için Backend bölümününde Üyelik ve üyelik için şifreleme işlemleri yapılmaktadır. Üyelik verileri karapi ile entegre olmayıp kendi veritabınında bilgiler tutulmaktadır.• Çakümer Sistemi vatandaşların ve öğrencilerimizin online olarak başvurabileceği bir sistemdir.• Başvuru sahipleri isteklerini, önerilerini ve şikayetlerini sistem üzerinden yapabilir.",
+                  "web": "https://cakumer.karatekin.edu.tr/",
+                  "ekip": [
+                    {
+                      "rol": "Proje Yöneticisi",
+                      "name": "Nazlı Koymat"
+                    },
+                    {
+                      "rol": "Geliştirici",
+                      "name": "Nazlı Koymat"
+                    }
+                  ]
+                },
+                {
+                  "category": "Yazılım",
+                  "title": "Barınma Destek Sistemi",
+                  "desc": "• Uygulama Asp.Net Core dilinde geliştirildi.ve veritabanı olarak MSSQL kullanılmıştır.•Bu sistem Öğrencilerin kullanacağı form arayüzü ve Barınma Destek Sistemi Yetkilisi tarafından başvuruların değerlendirileceğim bir yönetim paneli arayüzünden oluşmaktadır.•Bu sistemin  HTML, CSS, JavaScript, kullanılarak kullanıcı arayüzü tasarımı  ve   ASP.NET Core ile API ve veri erişim katmanlı yapıda,Yetkilendirme ve kullanıcı rolleri (Admin, Barınma Destek Sistemi Yetkilisi, Barınma Destek Sistemi Kullanıcısı, Barınma Destek Sistemi Başvuran) için rol tabanlı erişim kontrolü bulunmaktadır.• Barınma Destek Sistemi öğrencilerimizin online olarak başvurabileceği bir sistemdir.• Üniversitemizi kazanan öğrencilerin barınma ihtiyacını destek amacıyla  Sağlık Kültür Dai. Başkanlığı talebiyle oluşturulan web sayfasıdır.",
+                  "web": "https://barinmadestek.karatekin.edu.tr/",
+                  "ekip": [
+                    {
+                      "rol": "Proje Yöneticisi",
+                      "name": "Nazlı Koymat"
+                    },
+                    {
+                      "rol": "Geliştirici",
+                      "name": "Nazlı Koymat"
+                    }
+                  ]
+                },
+                {
+                  "category": "Yazılım",
+                  "title": "Bidb Web Sayfası",
+                  "desc": "• Bilgi İşlem Daire Başkanlığı tarafından talep edilmiştir.•Uygulama Asp.Net  Core da C# dilinde geliştirilmiştir ve veritabanı olarak MSSQL kullanılmıştır. •Bu sistemin Frontend  kısımı  HTML, CSS, JavaScript, Ajax kullanılarak kullanıcı arayüzü tasarımı•Responsive tasarım ile her cihazda uyumlu görüntüleme.•Backend Geliştirme olarak karapi servisi, Personel Sistemi ve Web Yönetim Paneli Sistemi ile entegre yapıdadır. Bu Servisler aracılığı ile alınan veriler dinamik olarak web sitelerine yansıtılır.•Web Siteleri İçerik Sorumluları türleri Web Siteleri Koordinatörü, Web Siteleri Kullanıcısı olarak tanımlanır.•Uygulamanın geliştirme süreci Telat KAYA ve Nazlı KOYMAT tarafından gerçekleştirilmiştir, yayınlama ve destek süreci Nazlı KOYMAT tarafından gerçekleştirilmiştir. ",
+                  "web": "https://bidb.karatekin.edu.tr/",
+                  "ekip": [
+                    {
+                      "rol": "Proje Yöneticisi",
+                      "name": "Nazlı Koymat"
+                    },
+                    {
+                      "rol": "Geliştirici",
+                      "name": "Nazlı Koymat"
+                    }
+                  ]
+                },
+                {
+                  "category": "Yazılım",
+                  "title": "Video Yönetim Sistemi",
+                  "desc": "•Sağlık Bilimleri Fakültesi tarafından Fakültenin akademik personeli için izlenmesi gereken eğitim videolarının izlenme durumlarını takip etmek için talep edilmiştir.•Uygulama Asp.Net Core da C# dilinde geliştirilmiştir ve veritabanı olarak MSSQL kullanılmıştır. •Bu sistemin Frontend  kısımı  HTML, CSS, JavaScript, Ajax kullanılarak kullanıcı arayüzü tasarımı•Responsive tasarım ile her cihazda uyumlu görüntüleme.•Backend Geliştirme olarak karapi servisi, Personel Sistemi ve Web Yönetim Paneli Sistemi ile entegre yapıdadır. Bu Servisler aracılığı ile alınan veriler dinamik olarak web sitelerine yansıtılır.•Kullanıcı Rolleri Video Yönetim Sistemi Yetkilisi, Video Yönetim Sistemi Kullanıcısı olarak tanımlanır.•Uygulamanın geliştirme süreci Nazlı KOYMAT tarafından gerçekleştirilmiştir, yayınlama ve destek süreci Nazlı KOYMAT tarafından gerçekleştirilmiştir.",
+                  "web": "https://vidyosis.karatekin.edu.tr/",
+                  "ekip": [
+                    {
+                      "rol": "Proje Yöneticisi",
+                      "name": "Nazlı Koymat"
+                    },
+                    {
+                      "rol": "Geliştirici",
+                      "name": "Nazlı Koymat"
+                    }
+                  ]
+                }
+              ],
+              "personel": [
+                {
+                  "name": "Ayşe Doğru",
+                  "unvan": "Bilgisayar Mühendisi",
+                  "gorev": "Yazılım Geliştirme",
+                  "dahili": "7146",
+                  "email": "aysedogru@karatekin.edu.tr"
+                },
+                {
+                  "name": "Hüseyin Şahiner",
+                  "unvan": "Öğretim Görevlisi",
+                  "gorev": "Yazılım Geliştirme",
+                  "dahili": "7141",
+                  "email": "huseyin@karatekin.edu.tr"
+                },
+                {
+                  "name": "Nazlı Koymat",
+                  "unvan": "Bilgisayar Mühendisi",
+                  "gorev": "Yazılım Geliştirme",
+                  "dahili": "7147",
+                  "email": "nazlikoymat@karatekin.edu.tr"
+                },
+                {
+                  "name": "Telat Kaya",
+                  "unvan": "Tekniker",
+                  "gorev": "Yazılım Geliştirme",
+                  "dahili": "7145",
+                  "email": "telat@karatekin.edu.tr"
+                },
+                {
+                  "name": "Selim Sürücü",
+                  "unvan": "Araştırma Görevlisi",
+                  "gorev": "Yazılım Geliştirme",
+                  "dahili": "7145",
+                  "email": "selimsurucu@karatekin.edu.tr"
+                },
+                {
+                  "name": "İrem Nur Ecemiş",
+                  "unvan": "Araştırma Görevlisi",
+                  "gorev": "Yazılım Geliştirme",
+                  "dahili": "7145",
+                  "email": "iremnurecemis@karatekin.edu.tr"
+                }
+              ]
+            },
+            {
+              "title": "Teknik Servis Birimi",
+              "mudur": "Ebubekir Baş",
+              "personel": [
+                {
+                  "name": "Hasan Ersönmez",
+                  "unvan": "Tekniker",
+                  "gorev": "Teknik Servis Uzmanı",
+                  "dahili": "7105",
+                  "email": "hasanersonmez@karatekin.edu.tr"
+                },
+                {
+                  "name": "Serhat Acar",
+                  "unvan": "Tekniker",
+                  "gorev": "Teknik Servis Uzmanı",
+                  "dahili": "7106",
+                  "email": "serhat@karatekin.edu.tr"
+                },
+                {
+                  "name": "Burak Demirci",
+                  "unvan": "Teknisyen",
+                  "gorev": "Teknik Servis Uzmanı",
+                  "dahili": "7104",
+                  "email": "burakdemirci@karatekin.edu.tr"
+                },
+                {
+                  "name": "Cihan Maraz",
+                  "unvan": "Tekniker",
+                  "gorev": "Teknik Servis Uzmanı",
+                  "dahili": "7107",
+                  "email": "cihan@karatekin.edu.tr"
+                },
+                {
+                  "name": "Yasin Şentürk",
+                  "unvan": "Tekniker",
+                  "gorev": "Teknik Servis Uzmanı",
+                  "dahili": "7108",
+                  "email": "yasin@karatekin.edu.tr"
+                }
+              ]
+            },
+            {
+              "title": "Ağ veSunucu Hizmetleri Birimi",
+              "mudur": "Ebubekir Baş",
+              "personel": [
+                {
+                  "name": "Şaban Yeniköse",
+                  "unvan": "Tekniker",
+                  "gorev": "Ağ ve Sunucu Hizmetleri Uzmanı",
+                  "dahili": "7117",
+                  "email": "sabany@karatekin.edu.tr"
+                },
+                {
+                  "name": "Süleyman Yıldız",
+                  "unvan": "Tekniker",
+                  "gorev": "Ağ ve Sunucu Hizmetleri Uzmanı",
+                  "dahili": "7119",
+                  "email": "syildiz@karatekin.edu.tr"
+                }
+              ]
+            },
+            {
+              "title": "İdari Hizmetler Birimi",
+              "mudur": "Selcen Çelenkoğlu",
+              "personel": [
+                {
+                  "name": "Aydın Çalışkan",
+                  "unvan": "Bilgisayar İşletmeni",
+                  "gorev": "İdari Hizmetler Uzmanı",
+                  "dahili": "7102",
+                  "email": "aydincaliskan@karatekin.edu.tr"
+                }
+              ]
+            },
+            {
+              "title": "Siber Güvenlik Birimi",
+              "mudur": "Mehmet Akif Oruç",
+              "personel": [
+                {
+                  "name": "Mehmet Akif Oruç",
+                  "unvan": "Öğretim Görevlisi",
+                  "gorev": "Siber Güvenlik Uzmanı",
+                  "dahili": "7103",
+                  "email": "akiforuc@karatekin.edu.tr"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Yönetim",
+      "title": "Rektör",
+      "name": "Prof. Dr. Harun Çiftçi",
+      "bio": "Prof. Dr. Harun ÇİFTÇİ Çankırı Karatekin Üniversitesi Rektörüdür. Cumhurbaşkanımız Sn. Recep Tayyip ERDOĞAN’ın tensipleriyle 21.04.2021 tarihli Resmî Gazete’de yayımlanan 2021/203 nolu karar ile Çankırı Karatekin Üniversitesi Rektörlük Makamı şahsına tevdi edilen Prof. Dr. Harun ÇİFTÇİ, 1975 Elazığ doğumludur. 1996 yılında Fırat Üniversitesi Mühendislik Fakültesi Kimya Mühendisliği Bölümünü tamamlayan Rektör Prof. Dr. Harun ÇİFTÇİ, Organik Kimya Anabilim Dalında Yüksek Lisansını, Analitik Kimya Anabilim Dalında birinci Doktorasını ve Tıbbi Biyokimya Anabilim Dalında ikinci Doktorasını tamamlamıştır. 2012 yılında Doçent, 2017 yılında ise Profesör unvanı almıştır. Kırşehir Ahi Evran Üniversitesi Tıp Fakültesi, Temel Tıp Bilimleri Tıbbi Biyokimya Anabilim Dalı Başkanı ve Öğretim Üyesidir. Tıp Fakültesindeki akademik görevlerinin yanında, Avrupa Birliği, TÜBİTAK ve Bölgesel Kalkınma Projelerinde Yürütücü, Koordinatör ve Danışmanlık gibi birçok vazifeyi de ifa etmiştir. Temel ve Uygulamalı Bilimlerdeki uzmanlıkları nedeniyle multidisipliner alanlarda ulusal ve uluslararası çalışmalara önemli katkılar sağlamıştır. Görev yaptığı Üniversitede; Senato Üyeliği, Sağlık Yüksekokul Müdürlüğü, Meslek Yüksekokulu Müdürlüğü, Bölüm Başkanlığı, Anabilim Dalı Başkanlığı, Yönetim Kurulu Üyelikleri gibi idarecilik vazifelerinin yanında, bölge kalkınmasına fayda sağlayacak faaliyetlerin; eylem ve stratejik planların hazırlanmasına, rol model oluşturacak projelerin belirlemesine direkt katkıda bulunmuştur. Yurtdışındaki üniversitelerde misafir öğretim üyesi olarak ders de veren Rektör Prof. Dr. Harun ÇİFTÇİ, yine vatan toprakları dışında Yunus Emre Enstitüsü ve Türkiye’deki Yüksek Öğretim Kurumları iş birliği ile düzenlenen toplantılarda ve eğitim etkinliklerinde seminerler düzenlemiştir. Rektör Prof. Dr. Harun ÇİFTÇİ, 10 ve 11. Kalkınma Planlarında detaylıca söz edilen hedefler doğrultusunda; jeotermal enerji kaynaklarının daha etkin ve verimli değerlendirilebilmesi için Mühendislik, Ziraat ve Sağlık alanlarında düzenlenen Jeotermal Enerji Çalıştaylarının Başkanlık vazifelerini yürütmüş, Ticaret ve Sanayi Odalarında, Konya Ovası Projesi Bölgesi Üniversiteler Birliğinde ve Sivil Toplum Kuruluşlarında Sosyal ve Beşerî Kalkınma, Yenilenebilir Enerji, Turizmin Yaygınlaştırılması başlıklı çalışma ve çalıştaylara katılmıştır. Rektör Prof. Dr. Harun ÇİFTÇİ, çevre ve su kirliliğinin önlenmesi, insan ve toplum sağlığının korunması, gıda güvenliği, toksikoloji, biyoaktif bileşenler, biyonanoteknoloji, risk değerlendirmeleri, sürdürülebilir kalkınma ve inovatif kimya alanlarında bilimsel çalışmalarını da sürdürmektedir. Rektör Prof. Dr. Harun ÇİFTÇİ İngilizce bilmektedir. Evli ve iki çocuk babasıdır.",
+      "contact": {
+        "email": "harunciftci@karatekin.edu.tr",
+        "phone": "+90 376 218 95 00-7271",
+        "address": "Uluyazı Kampüsü Rektörlük Binası"
+      }
+    },
+    {
+      "category": "Yönetim",
+      "title": "Rektör Yardımcıları",
+      "people": [
+        {
+          "name": "Prof. Dr. Hüseyin ODABAŞ",
+          "bio": "Prof. Dr. Hüseyin ODABAŞ Çankırı Karatekin Üniversitesi Rektör Yardımcısıdır. 1973 yılında Artvin’de doğan Hüseyin Odabaş, 1996 yılında Ankara Üniversitesi Arşivcilik Anabilim Dalından mezun oldu. 1997 yılında Atatürk Üniversitesi Kütüphanecilik Bölümünde araştırma görevlisi kadrosuna atandı. 2007 yılında Ankara Üniversitesi Sosyal Bilimler Enstitüsü Bilgi ve Belge Yönetimi Anabilim Dalında “Elektronik Belge Yönetimi ve Kamu Kurum ve Kuruluşları” adlı tezi ile doktora öğrenimini tamamladı. 2008 yılında Atatürk Üniversitesi Bilgi ve Belge Yönetimi Bölümüne yardımcı doçent olarak atandı. 2011 yılında doçent unvanını almaya hak kazandı. 2015 yılında Çankırı Karatekin Üniversitesi Bilgi ve Belge Yönetimi bölümünde göreve başladı. 2016 yılında profesör kadrosuna atandı ve halen aynı bölümde görev yapmaya devam etmektedir. Belge yönetimi, bilgi yönetimi, okuma alışkanlığı, açık erişim, yazma eser kütüphaneciliği başta olmak üzere bilgi bilimi alanında makale, kitap, proje ve bildiri şeklinde çok sayıda akademik çalışma yapmış; çeşitli zamanlarda bölüm başkanlığı, fakülte kurulu üyelikleri ve koordinatörlük görevlerinde bulunmuştur. Kişisel Sayfa: https://odabashuseyin.wordpress.com/ ",
+          "responsibilities": [
+            "Hukuk Fakültesi",
+            "İnsan ve Toplum Bilimleri Fakültesi",
+            "Kurşunlu Meslek Yüksekokulu",
+            "Türkiyat Enstitüsü",
+            "Genel Sekreterlik",
+            "İdari ve Mali İşler Daire Başkanlığı",
+            "Kütüphane ve Dokümantasyon Daire Başkanlığı",
+            "Sağlık Kültür ve Spor Daire Başkanlığı",
+            "Tanıtım ve Medya Koordinatörlüğü",
+            "Döner Sermaye İşletme Müdürlüğü",
+            "Uzaktan Eğitim UAM",
+            "Dil Eğitimi UAM",
+            "Kadın ve Aile Çalışmaları UAM",
+            "Darülhadis İslam Araştırmaları UAM",
+            "Yurtdışı Öğrenci Komisyonu",
+            "Yayın Komisyonu",
+            "Lojman Tahsis Komisyonu",
+            "Pedagojik Formasyon Birimi",
+            "Farabi Koordinatörlüğü",
+            "Erasmus Koordinatörlüğü",
+            "Mevlana Koordinatörlüğü",
+            "YLSY Burs Koordinatörlüğü",
+            "Web Koordinatörlüğü",
+            "Kariyer Merkezi (ÇKM)",
+            "Uluslararası İlişkiler Ofisi",
+            "Uluslararası Öğrenci Koordinatörlüğü",
+            "Gençlik Sağlığı ve Bağımlılıkla Mücadele Komisyonu"
+          ],
+          "contact": {
+            "email": "odabashuseyin@karatekin.edu.tr",
+            "phone": "+90 376 218 95 00-7274",
+            "address": "Uluyazı Kampüsü Rektörlük Binası"
+          }
+        },
+        {
+          "name": "Prof. Dr. İbrahim ÇİFTÇİ",
+          "bio": "Prof. Dr. İbrahim Çiftçi Çankırı Karatekin Üniversitesi Rektör Yardımcısıdır. 1970 Kırıkkale doğumlu olan İbrahim ÇİFTÇİ, Gazi Üniversitesi Teknik Eğitim Fakültesi Makine Eğitimi Bölümü’nden 1993 yılında mezun olmuştur. İngiltere’deki Coventry University School of Engineering’de 1996 yılında Yüksek Lisansını tamamlayan İbrahim ÇİFTÇİ, 1998 yılında Zonguldak Karaelmas Üniversitesi Karabük Teknik Eğitim Fakültesi Makine Eğitimi Bölümü Talaşlı Üretim Anabilim Dalı’nda araştırma görevlisi olarak göreve başlamıştır. Gazi Üniversitesi Fen Bilimleri Enstitüsü Makine Eğitimi Anabilim Dalı’nda 1999 yılında başladığı doktora çalışmasını 2003 yılında tamamlamış ve aynı yıl Zonguldak Karaelmas Üniversitesi Karabük Teknik Eğitim Fakültesi Makine Eğitimi Bölümü Talaşlı Üretim Anabilim Dalı’nda Araştırma Görevlisi Dr. olarak göreve başlamıştır. Aynı anabilim dalında 2004-2006 yılları arasında Yardımcı Doçent ve 2006-2012 yılları arasında da Doçent Unvanları ile görev yapmıştır. 2012-2016 yılları arasında Karabük Üniversitesi Teknoloji Fakültesi İmalat Mühendisliği Bölümü’nde Profesör olarak görev yapmıştır. 2016 yılından itibaren de Çankırı Karatekin Üniversitesi Mühendislik Fakültesi Makine Mühendisliği Bölümü’nde görev yapmaktadır. Ulusal ve uluslararası dergilerde çok sayıda yayınlanmış makalesi ve ulusal ve uluslararası bilimsel etkinliklerde sunulmuş çok sayıda bildirisi vardır. Prof. Dr. İbrahim ÇİFTÇİ, evli ve üç çocuk babasıdır.",
+          "responsibilities": [
+            "Sağlık Bilimleri Fakültesi",
+            "Diş Hekimliği Fakültesi",
+            "Mühendislik Fakültesi",
+            "Orman Fakültesi",
+            "Fen Fakültesi",
+            "Sanat, Tasarım ve Mimarlık Fakültesi",
+            "Meslek Yüksekokulu",
+            "Gıda ve Tarım Meslek Yüksekokulu",
+            "Eldivan Sağlık Hizmetleri Meslek Yüksekokulu",
+            "Lisansüstü Eğitim Enstitüsü",
+            "Bilgi İşlem Daire Başkanlığı",
+            "Öğrenci İşleri Daire Başkanlığı",
+            "Yapı İşleri ve Teknik Daire Başkanlığı",
+            "Çankırı Karatekin Üniversitesi Merkezi Araştırma Laboratuvarı UAM",
+            "Yaban Hayatı UAM",
+            "Ağız ve Diş Sağlığı UAM",
+            "Öğretim Üyeliği Kadrolarına Başvuru ve Yükseltilme Kriterleri Değerlendirme Komisyonu",
+            "Bilimsel Araştırma Projeleri Komisyonu",
+            "Fikri ve Sinai Mülkiyet Hakları Değerlendirme Komisyonu",
+            "İşçi Disiplin Kurulu",
+            "Bilimsel Araştırma Projeleri Koordinatörlüğü",
+            "Teknokent",
+            "Teknoloji Transfer Ofisi TTO",
+            "Proje Destek Ofisi",
+            "Meslek Yüksekokulları Koordinatörlüğü",
+            "İş Sağlığı ve Güvenliği Koordinatörlüğü",
+            "Bölgesel Kalkınma ve İhtisaslaşma Koordinatörlüğü"
+          ],
+          "contact": {
+            "email": "iciftci@karatekin.edu.tr",
+            "phone": "+90 376 218 95 00-7274",
+            "address": "Uluyazı Kampüsü Rektörlük Binası"
+          }
+        },
+        {
+          "name": "Prof. Dr. Yavuz DEMİREL",
+          "bio": "Prof. Dr.  Yavuz Demirel Çankırı Karatekin Üniversitesi Rektör Yardımcısıdır. 1973 Ardahan doğumludur. 1997 yılında, Niğde Üniversitesi İktisadi ve İdari Bilimler Fakültesinden Fakülte birincisi olarak mezun oldu. Yüksek Lisansını 2000 yılında, doktorasını 2005 yılında Niğde Üniversitesi Sosyal Bilimler Enstitüsü İşletme Anabilim Dalında Tamamladı. Niğde Üniversitesi Aksaray İktisadi ve İdari Bilimler Fakültesi İşletme Bölümü Yönetim ve Organizasyon Anabilim Dalında 1998-2006 yılları arasında araştırma görevlisi olarak görev yaptı. 2007-2010 yılları arasında Aksaray Üniversitesi İktisadi ve İdari Bilimler Fakültesi İşletme Bölümü Yönetim ve Organizasyon Anabilim Dalında Yardımcı Doçent, 2010-2015 yılları arasında Doçent olarak görev yaptı. 2015-2023 yılları arasında Kastamonu Üniversitesi İktisadi ve İdari Bilimler Fakültesi İşletme Bölümü Yönetim ve Organizasyon Anabilim Dalında Profesör olarak görev yapmıştır. Halen ise Çankırı Karatekin Üniversitesi İktisadi ve İdari Bilimler Fakültesi İşletme Bölümü Yönetim ve Organizasyon Anabilim Dalında Profesör olarak görev yapmaktadır. Görev yaptığı Üniversitelerde; Senato Üyeliği, Üniversite, Fakülte ve Yüksekokul Yönetim Kurulu Üyeliği, Dekanlık, Dekan Yardımcılığı, Yüksekokul Müdürlüğü, Meslek Yüksekokul Müdürlüğü, Bölüm Başkanlığı, Anabilim Dalı Başkanlığı, Yönetmelik ve Yönerge Komisyonu Başkanlığı, Etik Kurul Üyeliği, Kalite Koordinatörlüğü görevlerinin yansıra, Üniversite-Sanayi İşbirliği komisyon üyeliği, 11. Kalkınma Planı Etkin Yönetim Komisyonu, KOSGEB Uygulamalı Girişimcilik Eğitiminde eğitmen olarak ve YÖKAK İzleme Takım Üyeliği gibi görevlerde aktif olarak yer almıştır. Kastamonu Üniversitesinin kurumsal düzeyde TS EN ISO 9001:2015 Kalite Yönetim Sistemine geçiş sürecini koordine etmiştir. Prof. Dr. Yavuz DEMİREL’in ulusal ve uluslararası düzeyde çok sayıda yayınlanmış çalışması bulunmaktadır.  AD Scientific Index’in yayınladığı 'Dünya Bilim İnsanı ve Üniversite Sıralamasında' ise “İlk 10 Bin” akademisyen arasında yer almaktadır. Prof. Dr. Yavuz DEMİREL, evli ve dört çocuk babasıdır.",
+          "responsibilities": [
+            "İktisadi ve İdari Bilimler Fakültesi",
+            "İslami İlimler Fakültesi",
+            "Ilgaz Turizm ve Otelcilik YO",
+            "Sosyal Bilimler MYO",
+            "Çerkeş MYO",
+            "Strateji Geliştirme Daire Başkanlığı",
+            "Kamu-Üniversite-Sanayii İşbirliği UAM",
+            "Uluslararası Güvenlik Siyaset UAM (UGSAM)",
+            "Yâran Kültürü UAM",
+            "Afrika Ülkeleri İşbirliği UAM",
+            "Gelenekli Türk El Sanatları UAM",
+            "Avrupa Birliği Çalışmaları UAM",
+            "Akademik Teşvik Düzenleme, Denetleme ve İtiraz Komisyonu",
+            "Mevzuat Komisyonu",
+            "Eğitim Komisyonu",
+            "Üniversitemizde Yabancı Uyruklu Personel Çalıştırılması ve Bir Üst Unvana Yükseltilmesi Komisyonu",
+            "Üniversite Taşınmazlarının Tasarruflarına İlişkin İşlemler Komisyonu",
+            "Bilgi İletişim Güvenliği Komisyonu",
+            "Kalite Geliştirme Komisyonu",
+            "Dış Paydaş Danışma Kurulu",
+            "Etik Kurulu Başkanlığı",
+            "Ortak Dersler Koordinatörlüğü",
+            "Bologna Eşgüdüm Komisyonu",
+            "Toplumsal Katkı Koordinatörlüğü",
+            "ÖSYM Koordinatörlüğü",
+            "Engelli Öğrenci Birimi"
+          ],
+          "contact": {
+            "email": "yavuzdemirel@karatekin.edu.tr",
+            "phone": "+90 376 218 95 00-7215",
+            "address": "Uluyazı Kampüsü Rektörlük Binası"
+          }
+        }
+      ]
+    }
+  ]
+}
